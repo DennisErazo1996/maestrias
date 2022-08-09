@@ -6,7 +6,8 @@
         <div class="bread-glass"></div>
     </div>
     <div class="uk-container uk-container-small">
-        <h1 class="uk-heading-line uk-margin-large-bottom"><span>Maestría en Recursos Naturales y Producción Sostenible</span></h1>
+        <h1 class="uk-heading-line"><span>Maestría en Recursos Naturales y Producción Sostenible</span></h1>
+        <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Maestría-en-Recursos-Naturales-y-Producción-Sostenible.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
         <p><span class="dropcap">L</span>a <strong>Maestría en Recursos Naturales y Producción Sostenible</strong> aborda de manera holística los sistemas productivos del país, procurando su diversificación en camino hacia la resiliencia ante el cambio climático. Diseñado de forma interdisciplinaria, el programa de estudios apuesta al desarrollo del país, desde el estudio, diseño y difusión de los sistemas productivos sostenibles; que utilicen los recursos naturales, pero que a la vez aporten a su conservación. Los anterior, manteniendo una clara visión para el desarrollo del potencial existente de los recursos con que cuenta una comunidad y/o territorio con miras integrar la conservación y la producción, así como elevar la calidad de vida de las familias rurales y la promoción del desarrollo económico y humano sostenible.</p>
         <p>El Programa de Maestría forma profesionales que comprenden las dinámicas y establecen las interrelaciones entre los diversos componentes (internos) y las diversas fuerzas (externos) que influyen en el sistema biocultural, logrando identificar las estrategias que permitan el rediseño de los sistemas productivos que sean resilientes al cambio climático, que estén adaptados a la variación climática existente, que aporten a la seguridad alimentarias, al desarrollo económico y la conservación de la intra e inter biodiversidad. Basado en el conocimiento de las dinámicas ecosistemicas, una visión holística de las necesidades y problemas de las comunidades</p>
 
@@ -91,8 +92,8 @@
                 <li>
                     <div class="uk-child-width-1-1" data-uk-grid="" data-uk-lightbox="animation: fade">
                         <div>
-                            <a class="uk-inline" href="images/flujograma-maestria-rnps-f.png">
-                                <img data-src="images/flujograma-maestria-rnps-f.png" src="images/flujograma-maestria-rnps-f.png" alt="">
+                            <a class="uk-inline" href="images/flujograma-mrnps.jpg">
+                                <img data-src="images/flujograma-mrnps.jpg" src="images/flujograma-mrnps.jpg" alt="">
                             </a>
                         </div>
                     </div>

@@ -6,7 +6,8 @@
         <div class="bread-glass"></div>
     </div>
     <div class="uk-container uk-container-small">
-        <h1 class="uk-heading-line uk-margin-large-bottom"><span>Maestría en Ciencias Agroalimentarias</span></h1>
+        <h1 class="uk-heading-line"><span>Maestría en Ciencias Agroalimentarias</span></h1>
+        <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Maestría-en-Ciencias-Agroalimentarias.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
         <p><span class="dropcap">L</span>a <strong>Maestría en Ciencias Agroalimentarias</strong> es un programa de posgrado que se ofrece en modalidad semipresencial con mediación virtual y cuya finalidad es contribuir al fortalecimiento del sector agroalimentario de Honduras, mediante la especialización de profesionales altamente calificados que contribuyan al desarrollo y científico tecnológico en las áreas de Agroindustria y Agronegocios.</p>
         <p>Es un programa innovador con una malla curricular flexible, que cuenta con cuatro sub perfiles profesionales, diseñado y pensado para que el estudiante se especialice en el área de su interés; ofreciendo la oportunidad de cursar una maestría de tipo Académico o Profesionalizante, en las orientaciones de Agroindustria o Agronegocios.</p>
         <p class="uk-text-center uk-margin-large-top">
@@ -16,7 +17,7 @@
             <ul class="tabs" data-uk-tab="animation: uk-animation-slide-left-medium, uk-animation-slide-right-medium">
                 <li><a href="#">Información</a></li>
                 <li><a href="#">Objetivos</a></li>
-                <li class="uk-active"><a href="#">Perfiles</a></li>
+                <li><a href="#">Perfiles</a></li>
                 <li><a href="#">Flujograma</a></li>
                 <li><a href="#">Porcentajes</a></li>
                 <!-- <li class="uk-active"><a href="#">Sílabo</a></li> -->

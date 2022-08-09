@@ -56,10 +56,8 @@
 }
 
 .slideShow-item-text{
-    position: absolute;
-    left: 5%;
-    top: 65%;
-    z-index: 3;
+    text-align: left;
+    padding: 0 0 100px 100px;
     transition: all 0.6s;
 }
 
@@ -90,11 +88,7 @@
 
 @media screen and (max-width: 1600px){
     .slideShow-item-text{
-        position: absolute;
-        left: 5%;
-        top: 65%;
-        z-index: 3;
-        transition: all 0.6s;
+        padding: 0 0 100px 20px;
     }
     
     .slideShow-item-text h2, .slideShow-item-text h4{

@@ -6,7 +6,8 @@
         <div class="bread-glass"></div>
     </div>
     <div class="uk-container uk-container-small">
-        <h1 class="uk-heading-line uk-margin-large-bottom"><span>Maestría en Gestión de la Producción Animal Sostenible</span></h1>
+        <h1 class="uk-heading-line"><span>Maestría en Gestión de la Producción Animal Sostenible</span></h1>
+        <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Maestría-en-Gestión-de-la-Producción-Animal-Sostenible.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
         <p><span class="dropcap">L</span>a Universidad Nacional de Agricultura de Honduras, es una institución de Educación Superior, la cual a partir del año 2002 sustituyó a la Escuela Nacional de Agricultura. Los principios básicos bajo las cuales se rige la Institución son la Docencia, Investigación, Vinculación y Producción. En la actualidad forma Ingenieros Agrónomos, Ingenieros en Gestión Integral de los Recursos Naturales, Ingenieros en Tecnología Alimentaria, Licenciados en administración de Empresas Agropecuarias, Médicos Veterinarios y a partir del presente año se inició la formación de Ingenieros zootecnistas, Licenciados en Economía Social Agraria y Licenciados en Agro-exportación. Todas estas carreras ofrecidas bajo la modalidad de Aprender Haciendo.</p>
         <p>La conversión de la Escuela Nacional de Agricultura a Universidad Nacional de Agricultura se fundamenta en la necesidad de ampliar la oferta académica para ofrecer a la sociedad hondureña nuevas opciones científicas y tecnológicas tanto a nivel de Pregrado como de Postgrado, con base en las demandas nacionales y en los cambios globalizados del Sector Agropecuario. </p>
         <p>La Dirección del Sistema de Investigación y Estudios de Postgrado (DSIP) de la Universidad, creada en el año 2017, surgió con la necesidad de la existencia de una organización que responda en forma coherente al desarrollo de las actividades relacionadas con los estudios de Postgrado. La DSIP es el conjunto de instancias, normas y procesos que contribuyen a la generación y transferencia de conocimientos, tecnologías e innovación y el desarrollo de estudios de posgrado. Esto en consonancia con lo establecido en el estatuto de la Universidad el cual que es la responsable de supervisar, coordinar y estimular la investigación y los estudios de posgrado de alto nivel en la Universidad Nacional de Agricultura. Impulsa y apoya, prioritariamente, los proyectos, programas y estudios interdisciplinarios y multidisciplinarios que se ejecutan en las unidades académicas y de investigación. </p>
@@ -66,8 +67,8 @@
                 <li>
                     <div class="uk-child-width-1-1" data-uk-grid="" data-uk-lightbox="animation: fade">
                         <div>
-                            <a class="uk-inline" href="images/flujo-gpas-f.jpg">
-                                <img data-src="images/flujo-gpas-f.jpg" src="images/flujo-gpas-f.jpg" alt="">
+                            <a class="uk-inline" href="images/flujograma-mgpas.jpg">
+                                <img data-src="images/flujograma-mgpas.jpg" src="images/flujograma-mgpas.jpg" alt="">
                             </a>
                         </div>
                     </div>

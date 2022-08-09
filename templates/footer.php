@@ -15,6 +15,7 @@
                 <div class="menu-link"><a href="maestria-en-ciencias-agroalimentarias">Maestría en Ciencias Agroalimentarias</a></div>
                 <div class="menu-link"><a href="maestria-en-gestion-de-la-produccion-animal-sostenible">Maestría en Gestión de la Producción Animal Sostenible</a></div>
                 <div class="menu-link"><a href="maestria-en-recursos-naturales-y-produccion-sostenible">Maestría en Recursos Naturales y Producción Sostenible</a></div>
+                <div class="menu-link"><a href="master-universitario-en-biotecnologia-agroalimentaria">Máster Universitario en Biotecnología Agroalimentaria</a></div>
                 <div class="menu-link"><a href="https://moodlemaestrias.unag.edu.hn/login/index.php" target="_blank">Plataforma virtual</a></div>
                 <div class="menu-link"><a href="contactenos">Contáctenos</a></div>
                 <p class="uk-text-center"><a href="https://setic-portal.unag.edu.hn" target="_blank"><img src="images/logoSetic-hb500w.svg" alt="SETIC UNAG"></a></p>
@@ -26,4 +27,4 @@
     <script src="libs/uikit/uikit.min.js"></script>
     <script src="libs/uikit/uikit-icons.min.js"></script>
     <script src="scripts/main.js"></script>
-    <script src="scripts/index.js"></script>
+    <!-- <script src="scripts/index.js"></script> -->
