@@ -3,7 +3,7 @@
     </footer>
 
     <!-- Botón flotante -->
-    <a href="https://moodlemaestrias.unag.edu.hn/login/index.php" target="_blank" class="uk-hidden@s pulseBtn floatingBtn" rel="noopener noreferrer">Plataforma virtual</a>
+    <a href="https://moodlemaestrias.unag.edu.hn/login/index.php" target="_blank" class="uk-hidden@s pulseBtn floatingBtn floatingBtn-r" rel="noopener noreferrer">Plataforma virtual</a>
 
     <!-- Modal menu -->
     <div id="modal-menu" class="uk-modal-full" data-uk-modal>

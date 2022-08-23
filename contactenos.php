@@ -64,6 +64,9 @@
                             <option value="Maestría en Ciencias Agroalimentarias">Maestría en Ciencias Agroalimentarias</option>
                             <option value="Maestría en Gestión de la Producción Animal Sostenible">Maestría en Gestión de la Producción Animal Sostenible</option>
                             <option value="Maestría en Recursos Naturales y Producción Sostenible">Maestría en Recursos Naturales y Producción Sostenible</option>
+                            <option value="Máster en Agro 4.0">Máster en Agro 4.0</option>
+                            <option value="Máster en Biotecnología Agroalimentaria">Máster en Biotecnología Agroalimentaria</option>
+                            <option value="Doctorado en Ciencias Agrarias">Doctorado en Ciencias Agrarias</option>
                         </select>
                     </div>
                 </div>

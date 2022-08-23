@@ -9,7 +9,7 @@
                 </div>
                 <div class="uk-navbar-right">
                     <div class="uk-grid-small uk-text-center uk-container uk-container-small uk-margin-auto-left uk-margin-auto-right uk-visible@s" data-uk-grid>
-                        <div class="uk-width-1-1"><a href="https://moodlemaestrias.unag.edu.hn/login/index.php" target="_blank" class="pulseBtn pulseBtn_white" rel="noopener noreferrer">Plataforma virtual</a></div>
+                        <a href="https://moodlemaestrias.unag.edu.hn/login/index.php" target="_blank" class="pulseBtn pulseBtn_white" rel="noopener noreferrer">Plataforma virtual</a>
                     </div>
                     <a class="uk-navbar-toggle" href="#modal-menu" data-uk-toggle="">
                         <span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span>

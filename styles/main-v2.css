@@ -311,10 +311,17 @@ table tbody tr td:nth-child(2) p{
 
 .floatingBtn{
     position: fixed !important;
-    right: 15px;
     bottom: 15px;
     text-align: center;
     padding: 6px 12px;
+}
+
+.floatingBtn-r{
+    right: 15px;
+}
+
+.floatingBtn-l{
+    left: 15px;
 }
 
 @media screen and (max-width: 320px) {

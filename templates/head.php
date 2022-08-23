@@ -10,7 +10,7 @@ $fecha = getdate();
     <meta name="theme-color" content="#1BA333">
     <link rel="stylesheet" href="styles/loading.css">
     <link rel="stylesheet" href="libs/uikit/uikit.min.css">
-    <link rel="stylesheet" href="styles/main-v1.css">
+    <link rel="stylesheet" href="styles/main-v2.css">
     <link rel="stylesheet" href="styles/index-v1.css">
     <link rel="shortcut icon" href="images/favicon.png" type="image/png">
 
