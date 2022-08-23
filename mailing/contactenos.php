@@ -27,7 +27,7 @@ function enviaCorreo($nombre,$correo,$telefono,$maestria,$mensaje,$fecha,$hora){
 		$mail->Port = 587;
 		$mail->Host = 'smtp.gmail.com';
 		$mail->Username = 'no-responder@unag.edu.hn';
-		$mail->Password = 'Webmaster2013';
+		$mail->Password = 'Webmaster5*';
 		
 		$mail->isHTML(true);
 		// $mail->addAddress('dasdie@unag.edu.hn', 'DASDIE UNAG');
