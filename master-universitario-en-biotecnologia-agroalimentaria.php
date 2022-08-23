@@ -10,7 +10,7 @@
         <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Máster-Biotecnología-Agroalimentaria.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
         <p><span class="dropcap">N</span>uestro <strong>Máster Universitario en Biotecnología Agroalimentaria</strong> quiere que te formes y entrenes en aspectos científicos y prácticos centrados en los mecanismos moleculares del funcionamiento de los seres vivos. Aprende con nosotros cómo puede aplicarse la biología para la producción de bienes y servicios, así como el escalado industrial en los procesos biotecnológicos y la gestión de recursos.</p>
         <p class="uk-text-center uk-margin-large-top">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSegCdvfs7JRxmPo52IAvhLSK4E67r0KEH3JebuDYXTSxzD8Eg/viewform" target="_blank" class="pulseBtn">Llenar cuestionario de interés</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSegCdvfs7JRxmPo52IAvhLSK4E67r0KEH3JebuDYXTSxzD8Eg/viewform" target="_blank" class="pulseBtn texto-amarillo">Llenar cuestionario de interés</a>
             <!-- <a href="contactenos" class="pulseBtn">Contáctenos</a> -->
         </p>
         <div class="uk-margin-large-top uk-margin-large-bottom">

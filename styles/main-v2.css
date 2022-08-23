@@ -23,11 +23,11 @@
 }
 
 .texto-blanco{
-    color: var(--blanco);
+    color: var(--blanco) !important;
 }
 
 .texto-amarillo{
-    color: var(--amarillo);
+    color: var(--amarillo) !important;
 }
 
 .texto-verde{
