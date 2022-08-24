@@ -42,6 +42,10 @@
     background-color: var(--verde);
 }
 
+.fondo-verde-oscuro{
+    background-color: var(--verdeOscuro);
+}
+
 .fondo-verde-claro{
     background-color: var(--verdeClaro);
 }
@@ -177,13 +181,13 @@ table tbody tr td:nth-child(2) p{
 
 /* Custom UiKit */
 /* Botones */
-.uk-button-primary{
+.uk-button-primary, .uk-button{
     background-color: var(--verde) !important;
     border-radius: 3px !important;
     color: var(--blanco) !important;
 }
 
-.uk-button-primary:hover{
+.uk-button-primary:hover, .uk-button:hover{
     background-color: var(--verdeOscuro) !important;
 }
 
@@ -267,6 +271,10 @@ table tbody tr td:nth-child(2) p{
 .validacion{
     height: 50px;
     color: var(--rojo);
+}
+
+.bottom-shadow{
+    box-shadow: 0 8px 6px -6px black;
 }
 
 /* Botón pulsante */

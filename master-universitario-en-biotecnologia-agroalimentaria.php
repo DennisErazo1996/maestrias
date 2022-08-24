@@ -73,45 +73,45 @@
                 <li>
                     <div class="uk-grid-small uk-grid-match uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Sitio web del Máster Universitario en Biotecnología Agroalimentaria de la Universidad Católica de Ávila</h4>
-                                <a href="https://www.ucavila.es/formacion/postgrados/biotecnologia-agroalimentaria/" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Sitio web del Máster Universitario en Biotecnología Agroalimentaria de la Universidad Católica de Ávila</h4>
+                                <a href="https://www.ucavila.es/formacion/postgrados/biotecnologia-agroalimentaria/" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Titulación Oficial del Máster</h4>
-                                <a href="https://www.educacion.gob.es/ruct/estudiouniversidad.action?codigoCiclo=SC&codigoEstudio=4314955&actual=universidad" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Titulación Oficial del Máster</h4>
+                                <a href="https://www.educacion.gob.es/ruct/estudiouniversidad.action?codigoCiclo=SC&codigoEstudio=4314955&actual=universidad" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Plan de estudios</h4>
-                                <a href="https://www.ucavila.es/downloads/planes-Estudio/20-21/MBT.pdf" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Plan de estudios</h4>
+                                <a href="https://www.ucavila.es/downloads/planes-Estudio/20-21/MBT.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Horario de clases</h4>
-                                <a href="https://www.ucavila.es/Horarios/21-22/MBT.pdf" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Horario de clases</h4>
+                                <a href="https://www.ucavila.es/Horarios/21-22/MBT.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Calendario de Exámenes</h4>
-                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/21-22/calendariosAcademicos/examenes/MBT.pdf" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Calendario de Exámenes</h4>
+                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/21-22/calendariosAcademicos/examenes/MBT.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Precios de los Créditos</h4>
-                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/22-23/master/7.MU.PRECIOS.ECTS.22.23.pdf" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Precios de los Créditos</h4>
+                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/22-23/master/7.MU.PRECIOS.ECTS.22.23.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                         <div>
-                            <div class="uk-dark uk-background-muted uk-padding">
-                                <h4 class="uk-text-left">Formas de pago</h4>
-                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/22-23/master/9.MU.FORMAS.PAGO.22.23.pdf" class="uk-button uk-button-default" target="new">Ver</a>
+                            <div class="uk-dark uk-padding fondo-verde-claro bottom-shadow">
+                                <h4 class="uk-text-left uk-text-bold">Formas de pago</h4>
+                                <a href="https://www.ucavila.es/images/files/GuiaEstudiante/22-23/master/9.MU.FORMAS.PAGO.22.23.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
                         </div>
                     </div>

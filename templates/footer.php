@@ -26,5 +26,6 @@
     <script src="libs/jquery/jquery-v3.6.0.js"></script>
     <script src="libs/uikit/uikit.min.js"></script>
     <script src="libs/uikit/uikit-icons.min.js"></script>
-    <script src="scripts/main.js"></script>
+    <script src="libs/aos/aos.js"></script>
+    <script src="scripts/main-v1.js"></script>
     <!-- <script src="scripts/index.js"></script> -->
