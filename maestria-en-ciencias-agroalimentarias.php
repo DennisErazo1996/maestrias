@@ -53,7 +53,8 @@
                                 <li>Conocimientos básicos de informática.</li>
                                 <li>Comprensión del idioma inglés.</li>
                                 <li>Destrezas académicas básicas: habilidad para el manejo verbal y escrito del idioma español y organización lógica de ideas.</li>
-                                <li>Exposición de motivos para ingresar a la maestría (mediante entrevista)</li>
+                                <li>Exposición de motivos para ingresar a la maestría (mediante entrevista).</li>
+                                <li>Ser admitido en el programa de maestría en ciencias agroalimentarias.</li>
                             </ul>
                         </li>
                     </ul>
@@ -177,8 +178,8 @@
                             </a>
                         </div>
                         <div>
-                            <a class="uk-inline" href="images/flujo-mca4-f-n1.jpg" data-caption="Flujograma de asignaturas, orientación agronegocios, maestría profesionalizante">
-                                <img data-src="images/flujo-mca4-t-n1.jpg" src="images/flujo-mca4-t-n1.jpg" width="400" height="300" alt="">
+                            <a class="uk-inline" href="images/flujo-mca4-f-n2.jpg" data-caption="Flujograma de asignaturas, orientación agronegocios, maestría profesionalizante">
+                                <img data-src="images/flujo-mca4-t-n2.jpg" src="images/flujo-mca4-t-n2.jpg" width="400" height="300" alt="">
                             </a>
                         </div>
                     </div>
