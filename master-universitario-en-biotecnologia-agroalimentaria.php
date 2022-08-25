@@ -11,7 +11,7 @@
         <p><span class="dropcap">N</span>uestro <strong>Máster Universitario en Biotecnología Agroalimentaria</strong> quiere que te formes y entrenes en aspectos científicos y prácticos centrados en los mecanismos moleculares del funcionamiento de los seres vivos. Aprende con nosotros cómo puede aplicarse la biología para la producción de bienes y servicios, así como el escalado industrial en los procesos biotecnológicos y la gestión de recursos.</p>
         <h4 class="uk-heading-line uk-text-center"><span>Convocatoria para cursar estudios en el programa de Máster en Biotecnología Agroalimentaria a brindarse mediante convenio entre la Universidad Católica de Ávila (UCAV)-ESPAÑA y la UNAG-HN</span></h4>
         <p class="uk-text-center uk-margin-large-bottom">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSegCdvfs7JRxmPo52IAvhLSK4E67r0KEH3JebuDYXTSxzD8Eg/viewform" target="_blank" class="pulseBtn">Cuestionario para interesados/as</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSegCdvfs7JRxmPo52IAvhLSK4E67r0KEH3JebuDYXTSxzD8Eg/viewform" target="_blank" class="pulseBtn">Llenar cuestionario para interesados/as</a>
             <!-- <a href="contactenos" class="pulseBtn">Contáctenos</a> -->
         </p><br>
         <div class="uk-margin-large-top uk-margin-large-bottom">

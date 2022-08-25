@@ -30,8 +30,33 @@ function enviaCorreo($nombre,$correo,$telefono,$maestria,$mensaje,$fecha,$hora){
 		$mail->Password = 'Webmaster5*';
 		
 		$mail->isHTML(true);
-		// $mail->addAddress('dasdie@unag.edu.hn', 'DASDIE UNAG');
+		switch ($maestria) {
+			case 'Maestría en Ciencias Agroalimentarias':
+				$mail->addAddress('coordinacionmca@unag.edu.hn', 'Coordinación MCA');
+				$mail->addAddress('investigacion_posgrados@unag.edu.hn', 'Investigación Posgrados');
+				break;
+			case 'Maestría en Gestión de la Producción Animal Sostenible':
+				$mail->addAddress('coordinacionmgpas@unag.edu.hn', 'Coordinación GPAS');
+				$mail->addAddress('investigacion_posgrados@unag.edu.hn', 'Investigación Posgrados');
+				break;
+			case 'Maestría en Recursos Naturales y Producción Sostenible':
+				$mail->addAddress('coordinacionmrnps@unag.edu.hn', 'Coordinación RNPS');
+				$mail->addAddress('investigacion_posgrados@unag.edu.hn', 'Investigación Posgrados');
+				break;
+			case 'Máster en Agro 4.0':
+				$mail->addAddress('coordinacionmagro4_0@unag.edu.hn', 'Coordinación Agro 4.0');
+				$mail->addAddress('investigacion_posgrados@unag.edu.hn', 'Investigación Posgrados');
+				break;
+			case 'Máster en Biotecnología Agroalimentaria':
+				$mail->addAddress('coordinacionmabioagro@unag.edu.hn', 'Coordinación BA');
+				$mail->addAddress('investigacion_posgrados@unag.edu.hn', 'Investigación Posgrados');
+				break;
+			case 'Doctorado en Ciencias Agrarias':
+				$mail->addAddress('doctoradociagro@unag.edu.hn', 'Coordinación DCA');
+				break;
+		}		
 		$mail->addAddress('marlopez@unag.edu.hn', 'Miguel López');
+		
 		$mail->setFrom('no-responder@unag.edu.hn', 'UNAG');
 		$mail->Subject = 'Mensaje capturado desde el maestrias.unag.edu.hn';
 		$mail->addCustomHeader("List-Unsubscribe",'<admin@unag.edu.hn>, <https://maestrias.unag.edu.hn/unsubscribe?email='.$correo.'>');
