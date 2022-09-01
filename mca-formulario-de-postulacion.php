@@ -386,7 +386,7 @@
                             <div class="uk-width-1-2 uk-width-1-5@s">
                                 <label class="uk-form-label" for="otro_idioma">Otro idioma</label>
                                 <div class="uk-form-controls">
-                                    <input id="otro_idioma" class="uk-input" type="text">
+                                    <input id="otro_idioma" class="uk-input" type="text" value="No">
                                 </div>
                             </div>
                             <div class="uk-width-1-2 uk-width-1-5@s">
