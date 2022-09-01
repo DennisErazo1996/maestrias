@@ -106,27 +106,27 @@ function formValidation(){
     let universidad2 = $('#universidad2').val();
     let lugar2 = $('#lugar2').val();
     let carrera2 = $('#carrera2').val();
-    let anio_inicio2 = $('#anio_inicio2').val();
-    let anio_termino2 = $('#anio_termino2').val();
+    let anio_inicio2 = $('#anio_inicio2').val() === '' ? 0 : $('#anio_inicio2').val();
+    let anio_termino2 = $('#anio_termino2').val() === '' ? 0 : $('#anio_termino2').val();
     let titulo2 = $('#titulo2').val();
-    let anio2 = $('#anio2').val();
+    let anio2 = $('#anio2').val() === '' ? 0 : $('#anio2').val();
     let tesis2 = $('#tesis2').val();
 
     let institucion1 = $('#institucion1').val();
     let localidad1 = $('#localidad1').val();
     let cargo1 = $('#cargo1').val();
-    let desde1 = $('#desde1').val();
-    let hasta1 = $('#hasta1').val();
+    let desde1 = $('#desde1').val() === '' ? 0 : $('#desde1').val();
+    let hasta1 = $('#hasta1').val() === '' ? 0 : $('#hasta1').val();
     let institucion2 = $('#institucion2').val();
     let localidad2 = $('#localidad2').val();
     let cargo2 = $('#cargo2').val();
-    let desde2 = $('#desde2').val();
-    let hasta2 = $('#hasta2').val();
+    let desde2 = $('#desde2').val() === '' ? 0 : $('#desde2').val();
+    let hasta2 = $('#hasta2').val() === '' ? 0 : $('#hasta2').val();
     let institucion3 = $('#institucion3').val();
     let localidad3 = $('#localidad3').val();
     let cargo3 = $('#cargo3').val();
-    let desde3 = $('#desde3').val();
-    let hasta3 = $('#hasta3').val();
+    let desde3 = $('#desde3').val() === '' ? 0 : $('#desde3').val();
+    let hasta3 = $('#hasta3').val() === '' ? 0 : $('#hasta3').val();
     let institucion = $('#institucion').val();
     let cargo = $('#cargo').val();
     let pais_trabajo = $('#pais_trabajo').val();
@@ -199,6 +199,8 @@ function formValidation(){
         showValidationMsj('#anio1', validacion, 'Escriba el año en que obtuvo su título');
     } else if(!checkString(tesis1)){
         showValidationMsj('#tesis1', validacion, 'Escriba la tesis o trabajo de graduación');
+    } else if(espaniol === 'No' && ingles === 'No' && frances === 'No' && aleman === 'No' && portugues === 'No' && otro_idioma === 'No'){
+        showValidationMsj('#espaniol', validacion, 'Seleccione al menos un idioma');
     } else if(fuente === undefined){
         showValidationMsj('input[name=fuente]', validacion, 'Seleccione la fuente de financiamiento');
     } else if(!checkString(p1)){
