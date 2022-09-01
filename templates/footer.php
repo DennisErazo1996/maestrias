@@ -28,4 +28,3 @@
     <script src="libs/uikit/uikit-icons.min.js"></script>
     <script src="libs/aos/aos.js"></script>
     <script src="scripts/main-v1.js"></script>
-    <!-- <script src="scripts/index.js"></script> -->

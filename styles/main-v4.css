@@ -22,6 +22,10 @@
     --breadHeight: 500px;
 }
 
+::selection{
+    background: var(--verde) !important;
+}
+
 .texto-blanco{
     color: var(--blanco) !important;
 }
@@ -253,9 +257,20 @@ table tbody tr td:nth-child(2) p{
 	text-align: center !important;
 }
 
-/* UiKit custom */
 .uk-input:focus, .uk-select:focus, .uk-textarea:focus{
 	border-color: var(--verde) !important;
+}
+
+.uk-checkbox:checked, .uk-checkbox:indeterminate, .uk-radio:checked{
+    background-color: var(--verde);
+}
+
+.uk-checkbox:focus, .uk-radio:focus{
+    border-color: var(--verde);
+}
+
+.uk-list>*>ul, .uk-list>:nth-child(n+2){
+    margin-top: 0;
 }
 
 /* Misceláneos */

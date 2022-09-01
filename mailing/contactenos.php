@@ -55,7 +55,7 @@ function enviaCorreo($nombre,$correo,$telefono,$maestria,$mensaje,$fecha,$hora){
 				$mail->addAddress('doctoradociagro@unag.edu.hn', 'Coordinación DCA');
 				break;
 		}		
-		$mail->addAddress('marlopez@unag.edu.hn', 'Miguel López');
+		// $mail->addAddress('marlopez@unag.edu.hn', 'Miguel López');
 		
 		$mail->setFrom('no-responder@unag.edu.hn', 'UNAG');
 		$mail->Subject = 'Mensaje capturado desde el maestrias.unag.edu.hn';

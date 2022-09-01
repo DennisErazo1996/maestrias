@@ -11,7 +11,7 @@ $fecha = getdate();
     <link rel="stylesheet" href="styles/loading.css">
     <link rel="stylesheet" href="libs/uikit/uikit.min.css">
     <link rel="stylesheet" href="libs/aos/aos.css">
-    <link rel="stylesheet" href="styles/main-v3.css">
+    <link rel="stylesheet" href="styles/main-v4.css">
     <link rel="stylesheet" href="styles/index-v1.css">
     <link rel="shortcut icon" href="images/favicon.png" type="image/png">
 
