@@ -443,7 +443,7 @@ if($response['estatus']){
     $statement->bindParam(':hora',$hora);
     $statement->execute();
     $result = $statement->errorInfo();
-    var_dump($result);
+    // var_dump($result);
 
     $response['mensaje'] = 'OK';
     move_uploaded_file($ruta_provisional, $ruta.$nombrePDF);
