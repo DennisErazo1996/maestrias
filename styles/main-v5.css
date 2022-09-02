@@ -246,6 +246,11 @@ table tbody tr td:nth-child(2) p{
     margin-top: 5px;
 }
 
+/* Table */
+.uk-table-hover tbody tr:hover, .uk-table-hover>tr:hover{
+    background: var(--verdeClaro);
+}
+
 /* Forms */
 /* Custom forms inputs */
 .uk-input:focus, .uk-select:focus, .uk-textarea:focus{
