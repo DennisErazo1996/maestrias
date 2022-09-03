@@ -202,9 +202,9 @@ function formValidation(){
     } else if(!checkString(p1)){
         showValidationMsj('#p1', validacion, 'Escriba por qué ha decidido estudiar la Maestría en Ciencias Agroalimentarias');
     } else if(!checkSelect(p2)){
-        showValidationMsj('#p2', validacion, 'Escriba qué orientación de la Maestría le interesa cursar, agroindustria o agronegocios y por qué');
+        showValidationMsj('#p2', validacion, 'Seleccione qué orientación de la Maestría le interesa cursar');
     } else if(!checkSelect(p3)){
-        showValidationMsj('#p3', validacion, 'Escriba qué tipo de Maestría le interesa cursar, académica o profesionalizante');
+        showValidationMsj('#p3', validacion, 'Selecciones qué tipo de Maestría le interesa cursar');
     } else if(!checkString(p4)){
         showValidationMsj('#p4', validacion, 'Escriba un resumen breve de lo que usted espera del programa de Maestría en Ciencias Agroalimentarias');
     } else if(!checkString(pdf)){
