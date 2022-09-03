@@ -101,7 +101,6 @@ function formValidation(){
     let anio_inicio1 = $('#anio_inicio1').val();
     let anio_termino1 = $('#anio_termino1').val();
     let titulo1 = $('#titulo1').val();
-    let anio1 = $('#anio1').val();
     let tesis1 = $('#tesis1').val();
     let universidad2 = $('#universidad2').val();
     let lugar2 = $('#lugar2').val();
@@ -109,7 +108,6 @@ function formValidation(){
     let anio_inicio2 = $('#anio_inicio2').val() === '' ? 0 : $('#anio_inicio2').val();
     let anio_termino2 = $('#anio_termino2').val() === '' ? 0 : $('#anio_termino2').val();
     let titulo2 = $('#titulo2').val();
-    let anio2 = $('#anio2').val() === '' ? 0 : $('#anio2').val();
     let tesis2 = $('#tesis2').val();
 
     let institucion1 = $('#institucion1').val();
@@ -195,8 +193,6 @@ function formValidation(){
         showValidationMsj('#anio_termino1', validacion, 'Escriba el año en que terminó su carrera universitaria');
     } else if(!checkString(titulo1)){
         showValidationMsj('#titulo1', validacion, 'Escriba el título obtenido en su carrera universitaria');
-    } else if(!checkNumber(anio1)){
-        showValidationMsj('#anio1', validacion, 'Escriba el año en que obtuvo su título');
     } else if(!checkString(tesis1)){
         showValidationMsj('#tesis1', validacion, 'Escriba la tesis o trabajo de graduación');
     } else if(espaniol === 'No' && ingles === 'No' && frances === 'No' && aleman === 'No' && portugues === 'No' && otro_idioma === 'No'){
@@ -236,7 +232,6 @@ function formValidation(){
         data.append('anio_inicio1', anio_inicio1);
         data.append('anio_termino1', anio_termino1);
         data.append('titulo1', titulo1);
-        data.append('anio1', anio1);
         data.append('tesis1', tesis1);
         data.append('universidad2', universidad2);
         data.append('lugar2', lugar2);
@@ -244,7 +239,6 @@ function formValidation(){
         data.append('anio_inicio2', anio_inicio2);
         data.append('anio_termino2', anio_termino2);
         data.append('titulo2', titulo2);
-        data.append('anio2', anio2);
         data.append('tesis2', tesis2);
         data.append('institucion1', institucion1);
         data.append('localidad1', localidad1);

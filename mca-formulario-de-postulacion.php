@@ -8,52 +8,52 @@
     <div class="uk-container uk-container-small">
         <h1 class="uk-heading-line"><span>Formulario de postulación</span></h1>
         <h3 class="uk-heading-bullet uk-margin-remove-bottom uk-margin-small-top"><span>Maestría en Ciencias Agroalimentarias</span></h3>
-        <p class="uk-margin-remove-top">Para postularse, por favor complete el siguiente formulario.</p>
+        <p class="uk-margin-remove-top">Para postularse, por favor complete el siguiente formulario. Campos con * son requeridos.</p>
 
         <div class="uk-margin-large-bottom">
             <ul data-uk-accordion>
                 <li class="uk-open">
-                    <a class="uk-accordion-title uk-padding-small fondo-verde-claro texto-verde" href="#">ANTECEDENTES PERSONALES</a>
+                    <a class="uk-accordion-title uk-padding-small fondo-verde-claro texto-verde" href="#">DATOS PERSONALES</a>
                     <div class="uk-accordion-content uk-padding fondo-verde-claro">
                         <div class="uk-grid-small" data-uk-grid>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="apellido_paterno">Apellido paterno</label>
+                                <label class="uk-form-label" for="apellido_paterno">Primer apellido *</label>
                                 <div class="uk-form-controls">
                                     <input id="apellido_paterno" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="apellido_materno">Apellido materno</label>
+                                <label class="uk-form-label" for="apellido_materno">Segundo apellido *</label>
                                 <div class="uk-form-controls">
                                     <input id="apellido_materno" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="nombres">Nombres</label>
+                                <label class="uk-form-label" for="nombres">Nombres *</label>
                                 <div class="uk-form-controls">
                                     <input id="nombres" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="identidad">Identidad</label>
+                                <label class="uk-form-label" for="identidad">Identidad *</label>
                                 <div class="uk-form-controls">
                                     <input id="identidad" class="uk-input" type="tel" pattern="[0-9\-]+">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="fnac">Fecha de nacimiento</label>
+                                <label class="uk-form-label" for="fnac">Fecha de nacimiento *</label>
                                 <div class="uk-form-controls">
                                     <input id="fnac" class="uk-input" type="date">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="edad">Edad</label>
+                                <label class="uk-form-label" for="edad">Edad *</label>
                                 <div class="uk-form-controls">
                                     <input id="edad" class="uk-input" type="number">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="genero">Género</label>
+                                <label class="uk-form-label" for="genero">Género *</label>
                                 <div class="uk-form-controls">
                                     <select id="genero" class="uk-select">
                                         <option disabled selected>Seleccionar</option>
@@ -63,37 +63,37 @@
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="pais">País</label>
+                                <label class="uk-form-label" for="pais">País *</label>
                                 <div class="uk-form-controls">
                                     <input id="pais" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="ciudad">Ciudad</label>
+                                <label class="uk-form-label" for="ciudad">Ciudad *</label>
                                 <div class="uk-form-controls">
                                     <input id="ciudad" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="direccion">Dirección física</label>
+                                <label class="uk-form-label" for="direccion">Dirección *</label>
                                 <div class="uk-form-controls">
                                     <input id="direccion" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="telefono">Teléfono</label>
+                                <label class="uk-form-label" for="telefono">Teléfono *</label>
                                 <div class="uk-form-controls">
                                     <input id="telefono" class="uk-input" type="tel">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-4@s">
-                                <label class="uk-form-label" for="celular">Celular</label>
+                                <label class="uk-form-label" for="celular">Celular *</label>
                                 <div class="uk-form-controls">
                                     <input id="celular" class="uk-input" type="tel">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="correo">Correo electrónico</label>
+                                <label class="uk-form-label" for="correo">Correo electrónico *</label>
                                 <div class="uk-form-controls">
                                     <input id="correo" class="uk-input" type="email">
                                 </div>
@@ -106,49 +106,43 @@
                     <div class="uk-accordion-content uk-padding fondo-verde-claro">
                         <div class="uk-grid-small" data-uk-grid>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="universidad1">Universidad</label>
+                                <label class="uk-form-label" for="universidad1">Universidad *</label>
                                 <div class="uk-form-controls">
                                     <input id="universidad1" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="lugar1">Lugar</label>
+                                <label class="uk-form-label" for="lugar1">País *</label>
                                 <div class="uk-form-controls">
                                     <input id="lugar1" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="carrera1">Carrera</label>
+                                <label class="uk-form-label" for="carrera1">Carrera *</label>
                                 <div class="uk-form-controls">
                                     <input id="carrera1" class="uk-input" type="text">
                                 </div>
                             </div>
                             <div class="uk-width-1-2 uk-width-1-4@s">
-                                <label class="uk-form-label" for="anio_inicio1">Año inicio</label>
+                                <label class="uk-form-label" for="anio_inicio1">Año de inicio *</label>
                                 <div class="uk-form-controls">
                                     <input id="anio_inicio1" class="uk-input" type="number">
                                 </div>
                             </div>
                             <div class="uk-width-1-2 uk-width-1-4@s">
-                                <label class="uk-form-label" for="anio_termino1">Año término</label>
+                                <label class="uk-form-label" for="anio_termino1">Año de finalización *</label>
                                 <div class="uk-form-controls">
                                     <input id="anio_termino1" class="uk-input" type="number">
                                 </div>
                             </div>
-                            <div class="uk-width-1-1 uk-width-3-4@s">
-                                <label class="uk-form-label" for="titulo1">Título obtenido</label>
+                            <div class="uk-width-1-1">
+                                <label class="uk-form-label" for="titulo1">Título obtenido *</label>
                                 <div class="uk-form-controls">
                                     <input id="titulo1" class="uk-input" type="text">
                                 </div>
                             </div>
-                            <div class="uk-width-1-2 uk-width-1-4@s">
-                                <label class="uk-form-label" for="anio1">Año</label>
-                                <div class="uk-form-controls">
-                                    <input id="anio1" class="uk-input" type="number">
-                                </div>
-                            </div>
                             <div class="uk-width-1-1">
-                                <label class="uk-form-label" for="tesis1">Tema de Tesis o Trabajo de graduación</label>
+                                <label class="uk-form-label" for="tesis1">Título de la Tesis o Trabajo de graduación *</label>
                                 <div class="uk-form-controls">
                                     <textarea id="tesis1" class="uk-textarea" rows="5"></textarea>
                                 </div>
@@ -163,7 +157,7 @@
                                 </div>
                             </div>
                             <div class="uk-width-1-1 uk-width-1-2@s">
-                                <label class="uk-form-label" for="lugar2">Lugar</label>
+                                <label class="uk-form-label" for="lugar2">País</label>
                                 <div class="uk-form-controls">
                                     <input id="lugar2" class="uk-input" type="text">
                                 </div>
@@ -186,16 +180,10 @@
                                     <input id="anio_termino2" class="uk-input" type="number">
                                 </div>
                             </div>
-                            <div class="uk-width-1-1 uk-width-3-4@s">
+                            <div class="uk-width-1-1">
                                 <label class="uk-form-label" for="titulo2">Título obtenido</label>
                                 <div class="uk-form-controls">
                                     <input id="titulo2" class="uk-input" type="text">
-                                </div>
-                            </div>
-                            <div class="uk-width-1-2 uk-width-1-4@s">
-                                <label class="uk-form-label" for="anio2">Año</label>
-                                <div class="uk-form-controls">
-                                    <input id="anio2" class="uk-input" type="number">
                                 </div>
                             </div>
                             <div class="uk-width-1-1">
@@ -286,7 +274,7 @@
                                 </div>
                             </div>
                         </div>
-                        <h5 class="uk-heading-bullet"><span>Referencias laborales</span></h5>
+                        <h5 class="uk-heading-bullet"><span>Referencias</span></h5>
                         <div class="uk-overflow-auto">
                             <table class="uk-table uk-table-small uk-table-divider">
                                 <thead>
@@ -320,7 +308,7 @@
                 <li>
                     <a class="uk-accordion-title uk-padding-small fondo-verde-claro texto-verde" href="#">OTROS DATOS</a>
                     <div class="uk-accordion-content uk-padding fondo-verde-claro">
-                        <h5 class="uk-heading-bullet"><span>Idiomas</span></h5>
+                        <h5 class="uk-heading-bullet"><span>Idiomas *</span></h5>
                         <div class="uk-grid-small uk-child-width-1-2 uk-child-width-1-5@s" data-uk-grid>
                             <div>
                                 <label class="uk-form-label" for="espaniol">Español</label>
@@ -402,13 +390,13 @@
                                 </div>
                             </div>
                         </div>
-                        <h5 class="uk-heading-bullet"><span>Fuente de financiamiento para cursar la Maestría</span></h5>
+                        <h5 class="uk-heading-bullet"><span>Fuente de financiamiento para cursar la Maestría *</span></h5>
                         <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
                             <label><input class="uk-radio" type="radio" name="fuente" value="Propio"> Propio</label>
                             <label><input class="uk-radio" type="radio" name="fuente" value="Institución o Empresa"> Institución o Empresa</label>
                             <label><input class="uk-radio" type="radio" name="fuente" value="Beca"> Beca</label>
                         </div>
-                        <h5 class="uk-heading-bullet"><span>Datos Complementarios</span></h5>
+                        <h5 class="uk-heading-bullet"><span>Datos Complementarios *</span></h5>
                         <div class="uk-child-width-1-1" data-uk-grid>
                             <div>
                                 <label class="uk-form-label" for="p1">¿Por qué ha decidido estudiar la Maestría en Ciencias Agroalimentarias?</label>
@@ -417,15 +405,27 @@
                                 </div>
                             </div>
                             <div>
-                                <label class="uk-form-label" for="p2">¿Qué orientación de la Maestría le interesa cursar, agroindustria o agronegocios y por qué?</label>
-                                <div class="uk-form-controls">
-                                    <textarea id="p2" class="uk-textarea" rows="5"></textarea>
-                                </div>
-                            </div>
-                            <div>
-                                <label class="uk-form-label" for="p3">¿Qué tipo de Maestría le interesa cursar, académica o profesionalizante?</label>
-                                <div class="uk-form-controls">
-                                    <textarea id="p3" class="uk-textarea" rows="5"></textarea>
+                                <div class="uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
+                                    <div>
+                                        <label class="uk-form-label" for="p2">¿Qué orientación de la Maestría le interesa cursar?</label>
+                                        <div class="uk-form-controls">
+                                            <select id="p2" class="uk-select">
+                                                <option disabled selected>Seleccionar</option>
+                                                <option value="Agroindustria">Agroindustria</option>
+                                                <option value="Agronegocios">Agronegocios</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <label class="uk-form-label" for="p3">¿Qué tipo de Maestría le interesa cursar?</label>
+                                        <div class="uk-form-controls">
+                                            <select id="p3" class="uk-select">
+                                                <option disabled selected>Seleccionar</option>
+                                                <option value="Académica">Académica</option>
+                                                <option value="Profesionalizante">Profesionalizante</option>
+                                            </select>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div>
@@ -444,7 +444,7 @@
                         <p class="uk-margin-remove-top">Por favor agregue un sólo documento en formato PDF que contenga lo siguiente:</p>
                         <ul class="uk-list uk-list-square">
                             <li>Solicitud escrita de admisión al programa</li>
-                            <li>Copia legalizada de los títulos</li>
+                            <li>Copia de título</li>
                             <li>Certificado de calificaciones</li>
                             <li>Ranking de egreso</li>
                             <li>Copia del documento de identidad</li>
@@ -456,7 +456,7 @@
                                 <div>
                                     <div data-uk-form-custom>
                                         <input id="pdf" type="file" accept="application/pdf">
-                                        <button class="uk-button uk-button-default" type="button" tabindex="-1">Seleccionar documento PDF</button>
+                                        <button class="uk-button uk-button-default" type="button" tabindex="-1">Seleccionar</button>
                                     </div>
                                 </div>
                                 <div>
@@ -476,11 +476,11 @@
         </div>
         <div id="validacion" class="validacion uk-text-center"></div>
         <p class="uk-text-center uk-margin-large-bottom">
-            <a id="postularme" href="#" target="_blank" class="pulseBtn">Enviar datos para postularme</a>
+            <a id="postularme" href="#" target="_blank" class="pulseBtn">Enviar postulación</a>
         </p>
     </div>
 </main>
 <?php include_once('templates/footer.php'); ?>
 <script src="scripts/validations-forms.js"></script>
-<script src="scripts/mca-postulacion.js"></script>
+<script src="scripts/mca-postulacion-v1.js"></script>
 <?php include_once('templates/foot.php'); ?>

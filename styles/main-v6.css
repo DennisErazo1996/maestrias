@@ -233,7 +233,7 @@ table tbody tr td:nth-child(2) p{
     background-color: var(--verde) !important;
 }
 
-.uk-accordion li.uk-open a{
+.uk-accordion li.uk-open a:not(.uk-accordion-content a){
     color: var(--blanco) !important;
     background-color: var(--verde) !important;
 }

@@ -56,7 +56,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         isset($_POST['anio_inicio1']) && 
         isset($_POST['anio_termino1']) && 
         isset($_POST['titulo1']) && 
-        isset($_POST['anio1']) && 
         isset($_POST['tesis1']) && 
         isset($_POST['universidad2']) && 
         isset($_POST['lugar2']) && 
@@ -64,7 +63,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         isset($_POST['anio_inicio2']) && 
         isset($_POST['anio_termino2']) && 
         isset($_POST['titulo2']) && 
-        isset($_POST['anio2']) && 
         isset($_POST['tesis2']) && 
         isset($_POST['institucion1']) && 
         isset($_POST['localidad1']) && 
@@ -130,7 +128,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         $anio_inicio1 = test_input($_POST['anio_inicio1']);
         $anio_termino1 = test_input($_POST['anio_termino1']);
         $titulo1 = test_input($_POST['titulo1']);
-        $anio1 = test_input($_POST['anio1']);
         $tesis1 = test_input($_POST['tesis1']);
         $universidad2 = test_input($_POST['universidad2']);
         $lugar2 = test_input($_POST['lugar2']);
@@ -138,7 +135,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         $anio_inicio2 = test_input($_POST['anio_inicio2']);
         $anio_termino2 = test_input($_POST['anio_termino2']);
         $titulo2 = test_input($_POST['titulo2']);
-        $anio2 = test_input($_POST['anio2']);
         $tesis2 = test_input($_POST['tesis2']);
         $institucion1 = test_input($_POST['institucion1']);
         $localidad1 = test_input($_POST['localidad1']);
@@ -234,7 +230,6 @@ if($response['estatus']){
         `anio_inicio1`,
         `anio_termino1`,
         `titulo1`,
-        `anio1`,
         `tesis1`,
         `universidad2`,
         `lugar2`,
@@ -242,7 +237,6 @@ if($response['estatus']){
         `anio_inicio2`,
         `anio_termino2`,
         `titulo2`,
-        `anio2`,
         `tesis2`,
         `institucion1`,
         `localidad1`,
@@ -310,7 +304,6 @@ if($response['estatus']){
         :anio_inicio1,
         :anio_termino1,
         :titulo1,
-        :anio1,
         :tesis1,
         :universidad2,
         :lugar2,
@@ -318,7 +311,6 @@ if($response['estatus']){
         :anio_inicio2,
         :anio_termino2,
         :titulo2,
-        :anio2,
         :tesis2,
         :institucion1,
         :localidad1,
@@ -386,7 +378,6 @@ if($response['estatus']){
     $statement->bindParam(':anio_inicio1',$anio_inicio1);
     $statement->bindParam(':anio_termino1',$anio_termino1);
     $statement->bindParam(':titulo1',$titulo1);
-    $statement->bindParam(':anio1',$anio1);
     $statement->bindParam(':tesis1',$tesis1);
     $statement->bindParam(':universidad2',$universidad2);
     $statement->bindParam(':lugar2',$lugar2);
@@ -394,7 +385,6 @@ if($response['estatus']){
     $statement->bindParam(':anio_inicio2',$anio_inicio2);
     $statement->bindParam(':anio_termino2',$anio_termino2);
     $statement->bindParam(':titulo2',$titulo2);
-    $statement->bindParam(':anio2',$anio2);
     $statement->bindParam(':tesis2',$tesis2);
     $statement->bindParam(':institucion1',$institucion1);
     $statement->bindParam(':localidad1',$localidad1);
