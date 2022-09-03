@@ -10,6 +10,35 @@
         <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Maestría-en-Ciencias-Agroalimentarias.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
         <p><span class="dropcap">L</span>a <strong>Maestría en Ciencias Agroalimentarias</strong> es un programa de posgrado que se ofrece en modalidad semipresencial con mediación virtual y cuya finalidad es contribuir al fortalecimiento del sector agroalimentario de Honduras, mediante la especialización de profesionales altamente calificados que contribuyan al desarrollo y científico tecnológico en las áreas de Agroindustria y Agronegocios.</p>
         <p>Es un programa innovador con una malla curricular flexible, que cuenta con cuatro sub perfiles profesionales, diseñado y pensado para que el estudiante se especialice en el área de su interés; ofreciendo la oportunidad de cursar una maestría de tipo Académico o Profesionalizante, en las orientaciones de Agroindustria o Agronegocios.</p>
+        
+        <!-- DESCOMENTAR ESTA SECCIÓN DEL 8 AL 23 DE SEPTIEMBRE -->
+        <!-- <div class="uk-visible@s uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
+            <div>
+                <p class="uk-text-right uk-margin-top">
+                    <a href="mca-instructivo-de-convocatoria" target="new" class="pulseBtn">Instructivo de la convocatoria</a>
+                </p>
+            </div>
+            <div>
+                <p class="uk-text-left uk-margin-top">
+                    <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de postulación</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="uk-hidden@s uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
+            <div>
+                <p class="uk-text-center uk-margin-top">
+                    <a href="mca-instructivo-de-convocatoria" target="new" class="pulseBtn">Instructivo de la convocatoria</a>
+                </p>
+            </div>
+            <div>
+                <p class="uk-text-center uk-margin-top">
+                    <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de postulación</a>
+                </p>
+            </div>
+        </div> -->
+        <!-- HASTA AQUI -->
+        
         <p class="uk-text-center uk-margin-large-top">
             <a href="contactenos" class="pulseBtn">Contáctenos</a>
         </p>
