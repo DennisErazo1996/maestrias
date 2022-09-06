@@ -59,6 +59,7 @@
                             <li>Haber postulado</li>
                             <li>Haber rendido satisfactoriamente la entrevista ante la comisión de selección, la que podrá ser no presencial para aquellos postulantes que residan fuera de la zona de la ubicación del campus central de la UNAG o se encuentren en el extranjero</li>
                             <li>Haber cumplido con todos los requisitos y documentos necesarios para el ingreso</li>
+                            <li>Haber sido admitido al programa</li>
                         </ul>
                         <div class="uk-grid-small uk-grid-match uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
                             <div>
@@ -82,7 +83,7 @@
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 2</p>
                         <p class="uk-margin-remove-top">Registro de aspirantes y envío de la documentación en línea a través de la Plataforma institucional de la UNAG</p>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 3</p>
-                        <p class="uk-margin-remove-top">Periodo de aplicaciones</p>
+                        <p class="uk-margin-remove-top">Proceso de preselección por el comité académico del programa</p>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 4</p>
                         <p class="uk-margin-remove-top">Proceso de Entrevistas</p>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 5</p>
@@ -95,8 +96,8 @@
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 1: Lanzamiento oficial de la convocatoria para admisión de estudiantes</p>
                         <p class="uk-margin-remove-top">La convocatoria oficial para el ingreso en febrero 2023, que inicia actividades el 04 de febrero 2023, será publicada en las cuentas oficiales de la Universidad Nacional de Agricultura (Página web del programa y redes sociales oficiales de la UNAG). El lanzamiento oficial será el 08 de septiembre de 2022.</p>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 2: Registro de aspirantes y envío de la documentación en línea a través de la Plataforma institucional de la UNAG</p>
-                        <p class="uk-margin-remove-top">Ingresar a la página de postulación y proceder a realizar el Registro al postgrado de Ciencias Agroalimentarias; el registro estará disponible desde las 08:00 horas del jueves 08 de septiembre hasta las 20:00 horas del viernes 23 de septiembre del 2022.</p>
-                        <p class="uk-margin-small-bottom">Consideraciones para realizar el registro en la página “Registro de aspirantes al postgrado de la UNAG”:</p>
+                        <p class="uk-margin-remove-top">Ingresar a la página de postulación y proceder a realizar el Registro al posgrado de Ciencias Agroalimentarias; el registro estará disponible desde las 08:00 horas del jueves 08 de septiembre hasta las 20:00 horas del viernes 23 de septiembre del 2022.</p>
+                        <p class="uk-margin-small-bottom">Consideraciones para realizar el registro en la página “Registro de aspirantes al posgrado de la UNAG”:</p>
                         <ul class="uk-list uk-list-square uk-margin-remove-top">
                             <li>Es importante que realices personalmente el registro y los trámites que se solicitan en este instructivo. Evita incurrir en omisiones o inconsistencias, ya que no habrá cambios en lo referente a los campos o datos señalados como “obligatorios” en la página.</li>
                             <li>El registro se realiza en línea y la página estará habilitada las 24 horas al día, por lo que la distancia o el horario no son un impedimento para que te registres personalmente.</li>
@@ -158,7 +159,7 @@
                         <div class="uk-margin-large-top uk-margin-large-bottom uk-grid-small uk-grid-match uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
                             <div>
                                 <div class="fondo-verde texto-blanco uk-padding">
-                                    <strong>NOTA: En caso de ser aceptada(o), los documentos del cuadro 1 se entregarán físicamente una vez preseleccionado (listado que será publicado). Entrega de documentación a la Facultad de Ciencias Tecnológicas. Los documentos deberán ser legibles y encontrarse en buen estado, sin tachaduras, enmendaduras, deterioro o alteración que impida tener certeza jurídica de su validez.</strong>
+                                    <strong>NOTA: En caso de ser aceptada(o), los documentos del cuadro 1 se entregarán físicamente una vez preseleccionado (listado que será publicado). Entrega de documentación a la Facultad de Ciencias Tecnológicas. Los documentos deberán ser legibles y encontrarse en buen estado, sin tachaduras, deterioro o alteración que impida tener certeza jurídica de su validez.</strong>
                                 </div>
                             </div>
                             <div>
@@ -168,8 +169,42 @@
                             </div>
                         </div>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 3. Proceso de preselección por el comité académico del programa</p>
-                        <p class="uk-margin-remove-top">El programa publicará la lista de las y los aspirantes que continúan en el proceso de selección en la página Web de la UNAG. Considerar que se podrá dar por concluida tu participación en cualquier etapa del proceso cuando no cumplas con los requisitos y/o trámites previstos en este Instructivo.</p>
-                        <p class="uk-margin-remove-top uk-margin-small-bottom">Entre el 15-30 de septiembre después de las 10:00 horas se publicará en la página web el listado de los aspirantes que concluyeron y fue validada la ETAPA 1. Los postulantes preseleccionados deben proceder a realizar la entrega de la documentación en formato físico en las instalaciones de la Universidad Nacional de Agricultura en la Facultad de Ciencias Tecnológicas y presentar su respectivo comprobante de inscripción, lo anterior debe ser antes de realizar la entrevista.</p>
+                        <p class="uk-margin-remove-top">La comisión de selección del programa revisará y evaluará la documentación enviada por los aspirantes, para realizar la preselección según las siguientes valoraciones: </p>
+                        
+                        <table class="uk-table uk-table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Aspecto</th>
+                                    <th>Valor</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Entrevista</td>
+                                    <td>30%</td>
+                                </tr>
+                                <tr>
+                                    <td>Solicitud de Admisión</td>
+                                    <td>15%</td>
+                                </tr>
+                                <tr>
+                                    <td>Certificado de Calificación con Ranking de promoción</td>
+                                    <td>15%</td>
+                                </tr>
+                                <tr>
+                                    <td>Hoja de vida documentada</td>
+                                    <td>20%</td>
+                                </tr>
+                                <tr>
+                                    <td>Carta de recomendación</td>
+                                    <td>20%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        
+                        <p class="uk-margin-remove-top uk-margin-small-bottom">La nota mínima de ingreso al programa es de 75%. El primer preseleccionado sera el que obtenga la nota más alta.Ingresarán al programa los candidatos que posean las 20 notas de admisión más altas. </p>
+                        <p class="uk-margin-remove-top uk-margin-small-bottom">El programa publicará la lista de las y los aspirantes que continúan en el proceso de selección en la página Web de la UNAG. Considerar que se podrá dar por concluida tu participación en cualquier etapa del proceso cuando no cumplas con los requisitos y/o trámites previstos en este Instructivo.</p>
+                        <p class="uk-margin-remove-top">Entre el 15-30 de septiembre después de las 10:00 horas se publicará en la página web el listado de los aspirantes que concluyeron y fue validada la ETAPA 1. Los postulantes preseleccionados deben proceder a realizar la entrega de la documentación en formato físico en las instalaciones de la Universidad Nacional de Agricultura en la Facultad de Ciencias Tecnológicas y presentar su respectivo comprobante de inscripción, lo anterior debe ser antes de realizar la entrevista.</p>
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 4: Proceso de Entrevistas</p>
                         <p class="uk-margin-remove-top">Una vez preseleccionados los aspirantes, rendirán una entrevista y evaluación vía virtual para conocer la idoneidad de los aspirantes. La que será programada para cada uno y se le notificará vía página web de la institución en el horario correspondiente.</p>
                         <p class="uk-margin-remove-top uk-margin-small-bottom">Las entrevistas se llevarán a cabo del 13 al 31 de octubre del 2022.</p>
@@ -180,7 +215,7 @@
                         <p class="uk-margin-remove-bottom uk-text-bold">Etapa 5. Publicación de resultados</p>
                         <p class="uk-margin-remove-top">Completado el proceso de entrevistas se comunicarán los resultados y se confirmará a los postulantes que han sido admitidos al programa de maestría vía correo electrónico por medio de una carta de aceptación, quienes deberán confirmar su aceptación al programa.</p>
                         <p class="uk-margin-remove-top">Entre el 24-29 de noviembre de 2022, a partir de las 10:00 horas, se enviarán los resultados de la selección.</p>
-                        <p class="uk-margin-remove-bottom uk-text-bold">Etapa 6: Matricula en líne</p>
+                        <p class="uk-margin-remove-bottom uk-text-bold">Etapa 6: Matricula en línea</p>
                         <p class="uk-margin-remove-top">Los aspirantes seleccionados tendrán del 23 al 27 de enero de 2023 para formalizar su matrícula como estudiante del programa, de lo contrario el programa considerara al aspirante como que ha renunciado y el espacio podrá o no ser reasignado a un nuevo aspirante que haya realizado el proceso de selección completo.</p>
 
                         <p class="uk-margin-small-bottom uk-text-bold">Costo del programa:</p>
@@ -257,7 +292,7 @@
         </div>
         
         <p class="uk-margin-large-top uk-text-center">
-            <strong>COMITÉ ACADÉMICO DEL PROGRAMA DE POSTGRADO EN CIENCIAS AGROALIMENTARIAS</strong>
+            <strong>COMITÉ ACADÉMICO DEL PROGRAMA DE POSGRADO EN CIENCIAS AGROALIMENTARIAS</strong>
         </p>
     </div>
 </main>
