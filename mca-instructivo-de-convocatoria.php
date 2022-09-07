@@ -151,7 +151,7 @@
                                     </tr>
                                     <tr>
                                         <td>Dos cartas de recomendación confidenciales</td>
-                                        <td>Deben ser enviadas por quien las emite, directamente al correo de la coordinación del programa <a class="texto-verde" href="mailto:mca@unag.edu.hn">mca@unag.edu.hn</a></td>
+                                        <td>Deben ser enviadas por quien las emite, directamente al correo de la coordinación del programa <a class="texto-verde" href="mailto:coordinacionmca@unag.edu.hn">coordinacionmca@unag.edu.hn</a></td>
                                     </tr>
                                 </tbody>
                             </table>
