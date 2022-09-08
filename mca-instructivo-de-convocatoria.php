@@ -294,7 +294,7 @@
         <div class="uk-text-center">
             <div>
                 <p class="uk-text-center uk-margin-top">
-                    <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">¡Postularme!</a>
+                    <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">¡Postula Aquí!</a>
                 </p>
             </div>
         </div>
