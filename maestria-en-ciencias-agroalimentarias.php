@@ -12,7 +12,7 @@
         <p>Es un programa innovador con una malla curricular flexible, que cuenta con cuatro sub perfiles profesionales, diseñado y pensado para que el estudiante se especialice en el área de su interés; ofreciendo la oportunidad de cursar una maestría de tipo Académico o Profesionalizante, en las orientaciones de Agroindustria o Agronegocios.</p>
         
         <!-- DESCOMENTAR ESTA SECCIÓN DEL 8 AL 23 DE SEPTIEMBRE -->
-        <!-- <div class="uk-visible@s uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
+        <div class="uk-visible@s uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" data-uk-grid>
             <div>
                 <p class="uk-text-right uk-margin-top">
                     <a href="mca-instructivo-de-convocatoria" target="new" class="pulseBtn">Instructivo de la convocatoria</a>
@@ -36,7 +36,7 @@
                     <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de postulación</a>
                 </p>
             </div>
-        </div> -->
+        </div>
         <!-- HASTA AQUI -->
         
         <p class="uk-text-center uk-margin-large-top">

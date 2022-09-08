@@ -290,6 +290,14 @@
                 </li>
             </ul>
         </div>
+
+        <div class="uk-text-center">
+            <div>
+                <p class="uk-text-center uk-margin-top">
+                    <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">¡Postularme!</a>
+                </p>
+            </div>
+        </div>
         
         <p class="uk-margin-large-top uk-text-center">
             <strong>COMITÉ ACADÉMICO DEL PROGRAMA DE POSGRADO EN CIENCIAS AGROALIMENTARIAS</strong>
