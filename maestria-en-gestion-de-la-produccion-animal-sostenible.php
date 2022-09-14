@@ -7,15 +7,60 @@
     </div>
     <div class="uk-container uk-container-small">
         <h1 class="uk-heading-line"><span>Maestría en Gestión de la Producción Animal Sostenible</span></h1>
-        <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download href="documents/Maestría-en-Gestión-de-la-Producción-Animal-Sostenible.pdf" class="uk-button uk-button-default">Descargar bifolio</a></p>
-        <p><span class="dropcap">L</span>a Universidad Nacional de Agricultura de Honduras, es una institución de Educación Superior, la cual a partir del año 2002 sustituyó a la Escuela Nacional de Agricultura. Los principios básicos bajo las cuales se rige la Institución son la Docencia, Investigación, Vinculación y Producción. En la actualidad forma Ingenieros Agrónomos, Ingenieros en Gestión Integral de los Recursos Naturales, Ingenieros en Tecnología Alimentaria, Licenciados en administración de Empresas Agropecuarias, Médicos Veterinarios y a partir del presente año se inició la formación de Ingenieros zootecnistas, Licenciados en Economía Social Agraria y Licenciados en Agro-exportación. Todas estas carreras ofrecidas bajo la modalidad de Aprender Haciendo.</p>
-        <p>La conversión de la Escuela Nacional de Agricultura a Universidad Nacional de Agricultura se fundamenta en la necesidad de ampliar la oferta académica para ofrecer a la sociedad hondureña nuevas opciones científicas y tecnológicas tanto a nivel de Pregrado como de Postgrado, con base en las demandas nacionales y en los cambios globalizados del Sector Agropecuario. </p>
-        <p>La Dirección del Sistema de Investigación y Estudios de Postgrado (DSIP) de la Universidad, creada en el año 2017, surgió con la necesidad de la existencia de una organización que responda en forma coherente al desarrollo de las actividades relacionadas con los estudios de Postgrado. La DSIP es el conjunto de instancias, normas y procesos que contribuyen a la generación y transferencia de conocimientos, tecnologías e innovación y el desarrollo de estudios de posgrado. Esto en consonancia con lo establecido en el estatuto de la Universidad el cual que es la responsable de supervisar, coordinar y estimular la investigación y los estudios de posgrado de alto nivel en la Universidad Nacional de Agricultura. Impulsa y apoya, prioritariamente, los proyectos, programas y estudios interdisciplinarios y multidisciplinarios que se ejecutan en las unidades académicas y de investigación. </p>
-        <p>Las actividades de la DISP están encaminadas a promover la creación e implementación de Programas de Maestría que puedan ser impartidas por parte de la Universidad, contando con el apoyo de otras universidades de la región, esto con el propósito de generar capacidades profesionales en el área de producción animal en nuestro país.</p>
-        <p>Como una de sus prioridades la DISP en conjunto con la Facultad de Medicina Veterinaria y Zootecnia (FMVZ) de la Universidad propone la creación de la <strong>Maestría en Gestión de la Producción Animal Sostenible</strong>, esto fundamentado en que la formación de profesionales capaces e identificados con la realidad de la sociedad y modelos de producción pecuaria, debe ser responsabilidad de las universidades especializadas en esas áreas del conocimiento. </p>
-        <p>Con la implementación en el país de un Programa de <strong>Maestría en Gestión de la Producción Animal Sostenible</strong> se logrará formar profesionales especializados con capacidad de mejorar los procesos productivos del sector pecuario con nuevos métodos, técnicas y tecnologías que hagan frente a la demanda y calidad de alimento salvaguardando la salud pública. La Universidad Nacional de Agricultura actualmente impulsa importantes procesos de ampliación, planificación, organización y evaluación académica, orientados al desarrollo de una cultura de la innovación curricular. En este contexto se ha divisado la necesidad de ampliar su oferta académica con carreras de posgrado demandadas por la población graduada de la UNAG y otras universidades nacionales, con las competencias necesarias para responder a la solución de los problemas de la sociedad en general. </p>
-        <p>En contexto la producción animal como área de conocimiento, se define como una ciencia aplicada que se ocupa de todos aquellos aspectos relacionados con la cría y mejora de los animales domésticos con fines lucrativos para obtener productos de calidad, en condiciones de sanidad e higiene y buen trato para el animal, y respetando el medio ambiente y la salud de los consumidores; la producción animal requiere de conocimientos de los mecanismos biológicos por medio de cómo los animales se reproducen, crecen y se desarrollan, para proveer de alimento, abrigo y demás productos en beneficio del hombre. </p>
-        <p>Los profesionales de la <strong>Maestría en Gestión de la Producción Animal Sostenible</strong>, tendrán una formación académica integral, capacitados en los sistemas de producción sostenibles de importancia económica, ecológica o social considerando aspectos de gestión, bases de la producción, conservación del medioambiente, administración empresarial y salud pública. Para esto, el plan curricular planteado se enfocará en brindar una sólida formación en las disciplinas científicas y profesionales: El área de gestión administrativa empresarial y de investigación pecuaria. </p>
+        <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download
+                href="documents/Maestría-en-Gestión-de-la-Producción-Animal-Sostenible.pdf"
+                class="uk-button uk-button-default">Descargar bifolio</a></p>
+        <p><span class="dropcap">L</span>a Universidad Nacional de Agricultura de Honduras, es una institución de
+            Educación Superior, la cual a partir del año 2002 sustituyó a la Escuela Nacional de Agricultura. Los
+            principios básicos bajo las cuales se rige la Institución son la Docencia, Investigación, Vinculación y
+            Producción. En la actualidad forma Ingenieros Agrónomos, Ingenieros en Gestión Integral de los Recursos
+            Naturales, Ingenieros en Tecnología Alimentaria, Licenciados en administración de Empresas Agropecuarias,
+            Médicos Veterinarios y a partir del presente año se inició la formación de Ingenieros zootecnistas,
+            Licenciados en Economía Social Agraria y Licenciados en Agro-exportación. Todas estas carreras ofrecidas
+            bajo la modalidad de Aprender Haciendo.</p>
+        <p>La conversión de la Escuela Nacional de Agricultura a Universidad Nacional de Agricultura se fundamenta en la
+            necesidad de ampliar la oferta académica para ofrecer a la sociedad hondureña nuevas opciones científicas y
+            tecnológicas tanto a nivel de Pregrado como de Postgrado, con base en las demandas nacionales y en los
+            cambios globalizados del Sector Agropecuario. </p>
+        <p>La Dirección del Sistema de Investigación y Estudios de Postgrado (DSIP) de la Universidad, creada en el año
+            2017, surgió con la necesidad de la existencia de una organización que responda en forma coherente al
+            desarrollo de las actividades relacionadas con los estudios de Postgrado. La DSIP es el conjunto de
+            instancias, normas y procesos que contribuyen a la generación y transferencia de conocimientos, tecnologías
+            e innovación y el desarrollo de estudios de posgrado. Esto en consonancia con lo establecido en el estatuto
+            de la Universidad el cual que es la responsable de supervisar, coordinar y estimular la investigación y los
+            estudios de posgrado de alto nivel en la Universidad Nacional de Agricultura. Impulsa y apoya,
+            prioritariamente, los proyectos, programas y estudios interdisciplinarios y multidisciplinarios que se
+            ejecutan en las unidades académicas y de investigación. </p>
+        <p>Las actividades de la DISP están encaminadas a promover la creación e implementación de Programas de Maestría
+            que puedan ser impartidas por parte de la Universidad, contando con el apoyo de otras universidades de la
+            región, esto con el propósito de generar capacidades profesionales en el área de producción animal en
+            nuestro país.</p>
+        <p>Como una de sus prioridades la DISP en conjunto con la Facultad de Medicina Veterinaria y Zootecnia (FMVZ) de
+            la Universidad propone la creación de la <strong>Maestría en Gestión de la Producción Animal
+                Sostenible</strong>, esto fundamentado en que la formación de profesionales capaces e identificados con
+            la realidad de la sociedad y modelos de producción pecuaria, debe ser responsabilidad de las universidades
+            especializadas en esas áreas del conocimiento. </p>
+        <p>Con la implementación en el país de un Programa de <strong>Maestría en Gestión de la Producción Animal
+                Sostenible</strong> se logrará formar profesionales especializados con capacidad de mejorar los procesos
+            productivos del sector pecuario con nuevos métodos, técnicas y tecnologías que hagan frente a la demanda y
+            calidad de alimento salvaguardando la salud pública. La Universidad Nacional de Agricultura actualmente
+            impulsa importantes procesos de ampliación, planificación, organización y evaluación académica, orientados
+            al desarrollo de una cultura de la innovación curricular. En este contexto se ha divisado la necesidad de
+            ampliar su oferta académica con carreras de posgrado demandadas por la población graduada de la UNAG y otras
+            universidades nacionales, con las competencias necesarias para responder a la solución de los problemas de
+            la sociedad en general. </p>
+        <p>En contexto la producción animal como área de conocimiento, se define como una ciencia aplicada que se ocupa
+            de todos aquellos aspectos relacionados con la cría y mejora de los animales domésticos con fines lucrativos
+            para obtener productos de calidad, en condiciones de sanidad e higiene y buen trato para el animal, y
+            respetando el medio ambiente y la salud de los consumidores; la producción animal requiere de conocimientos
+            de los mecanismos biológicos por medio de cómo los animales se reproducen, crecen y se desarrollan, para
+            proveer de alimento, abrigo y demás productos en beneficio del hombre. </p>
+        <p>Los profesionales de la <strong>Maestría en Gestión de la Producción Animal Sostenible</strong>, tendrán una
+            formación académica integral, capacitados en los sistemas de producción sostenibles de importancia
+            económica, ecológica o social considerando aspectos de gestión, bases de la producción, conservación del
+            medioambiente, administración empresarial y salud pública. Para esto, el plan curricular planteado se
+            enfocará en brindar una sólida formación en las disciplinas científicas y profesionales: El área de gestión
+            administrativa empresarial y de investigación pecuaria. </p>
 
         <p class="uk-text-center uk-margin-large-top">
             <a href="contactenos" class="pulseBtn">Contáctenos</a>
@@ -33,20 +78,32 @@
             <ul class="uk-switcher uk-margin">
                 <li>
                     <h4 class="uk-heading-bullet">Objetivo general</h4>
-                    <p>Formar profesionales especializados con capacidad de mejorar la gestión de los sistemas de producción animal con nuevos métodos, técnicas y tecnologías que permitan satisfacer la demanda y calidad de alimento salvaguardando la salud pública para lograr la sostenibilidad económica y ambiental.</p>
+                    <p>Formar profesionales especializados con capacidad de mejorar la gestión de los sistemas de
+                        producción animal con nuevos métodos, técnicas y tecnologías que permitan satisfacer la demanda
+                        y calidad de alimento salvaguardando la salud pública para lograr la sostenibilidad económica y
+                        ambiental.</p>
                     <h4 class="uk-heading-bullet">Objetivos específicos</h4>
                     <ul class="uk-list uk-list-square">
-                        <li>Desarrollar métodos, técnicas y tecnologías con el análisis de los sistemas de producción para generar soluciones en el ámbito de la producción animal al utilizar técnicas sostenibles con el medio ambiente.</li>
-                        <li>Diseñar proyectos de producción animal al plantear estrategias sustentables para satisfacer la demanda y calidad de alimento con la administración integral de los recursos pecuarios.</li>
-                        <li>Gestionar los sistemas de producción animal articulando la realidad nacional con su formación profesional para contribuir a la sostenibilidad económica y ambiental aplicando el enfoque de cadenas de valor e inteligencia de mercado. </li>
+                        <li>Desarrollar métodos, técnicas y tecnologías con el análisis de los sistemas de producción
+                            para generar soluciones en el ámbito de la producción animal al utilizar técnicas
+                            sostenibles con el medio ambiente.</li>
+                        <li>Diseñar proyectos de producción animal al plantear estrategias sustentables para satisfacer
+                            la demanda y calidad de alimento con la administración integral de los recursos pecuarios.
+                        </li>
+                        <li>Gestionar los sistemas de producción animal articulando la realidad nacional con su
+                            formación profesional para contribuir a la sostenibilidad económica y ambiental aplicando el
+                            enfoque de cadenas de valor e inteligencia de mercado. </li>
                     </ul>
                 </li>
                 <li>
                     <h4 class="uk-heading-bullet">Perfil de ingreso</h4>
-                    <p>El aspirante a la <strong>Maestría de Gestión de la Producción Animal Sostenible</strong> ofertada por la Facultad de Medicina Veterinaria y Zootecnia de la Universidad Nacional de Agricultura, debe poseer:</p>
+                    <p>El aspirante a la <strong>Maestría de Gestión de la Producción Animal Sostenible</strong>
+                        ofertada por la Facultad de Medicina Veterinaria y Zootecnia de la Universidad Nacional de
+                        Agricultura, debe poseer:</p>
                     <ul class="uk-list uk-list-square">
                         <li>Un índice académico igual o mayor al 70% a nivel de licenciatura.</li>
-                        <li>Una carrera en el área de las ciencias agropecuarias, veterinarias, zootécnicas y afines.</li>
+                        <li>Una carrera en el área de las ciencias agropecuarias, veterinarias, zootécnicas y afines.
+                        </li>
                         <li>Iniciativa y criterio para utilizar y adaptar nuevas técnicas y tecnologías.</li>
                         <li>Habilidades para la comunicación oral y escrita.</li>
                         <li>Capacidad para resolver problemas y dar soluciones prácticas.</li>
@@ -56,12 +113,19 @@
                     </ul>
 
                     <h4 class="uk-heading-bullet">Perfil de egreso</h4>
-                    <p>El egresado de la <strong>Maestría en Gestión de la Producción Animal Sostenible</strong> es un profesional con una sólida formación en el área zootécnica, capaz de diseñar y aplicar técnicas necesarias para mejorar la productividad garantizando el bienestar animal en un ambiente de sustentabilidad, con una postura ética y propositiva con compromiso social. A continuación, se describen las competencias específicas que contempla la malla curricular de la maestría:</p>
+                    <p>El egresado de la <strong>Maestría en Gestión de la Producción Animal Sostenible</strong> es un
+                        profesional con una sólida formación en el área zootécnica, capaz de diseñar y aplicar técnicas
+                        necesarias para mejorar la productividad garantizando el bienestar animal en un ambiente de
+                        sustentabilidad, con una postura ética y propositiva con compromiso social. A continuación, se
+                        describen las competencias específicas que contempla la malla curricular de la maestría:</p>
                     <ul class="uk-list uk-list-square">
-                        <li>Plantea soluciones a partir de la identificación, análisis y evaluación de problemas en el ámbito de la producción animal utilizando técnicas sostenibles con el medio ambiente.</li>
-                        <li>Diseña y evalúa estrategias para el desarrollo de la producción animal sostenible y la gestión de los recursos pecuarios.</li>
+                        <li>Plantea soluciones a partir de la identificación, análisis y evaluación de problemas en el
+                            ámbito de la producción animal utilizando técnicas sostenibles con el medio ambiente.</li>
+                        <li>Diseña y evalúa estrategias para el desarrollo de la producción animal sostenible y la
+                            gestión de los recursos pecuarios.</li>
                         <li>Diseña, ejecuta y evalúa proyectos de desarrollo para la producción animal sostenible.</li>
-                        <li>Maneja los sistemas de producción animal con un enfoque de cadenas de valor e inteligencia de mercados.</li>
+                        <li>Maneja los sistemas de producción animal con un enfoque de cadenas de valor e inteligencia
+                            de mercados.</li>
                     </ul>
                 </li>
                 <li>
@@ -84,6 +148,12 @@
                                 </tr>
                                 <tr>
                                     <td>
+                                        <p><strong>Áreas de Conocimiento</strong></p>
+                                    </td>
+                                    <td class="uk-table-shrink">
+                                        <p><strong>N°</strong></p>
+                                    </td>
+                                    <td>
                                         <p><strong>Código</strong></p>
                                     </td>
                                     <td>
@@ -99,6 +169,300 @@
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td rowspan="3" style="vertical-align : middle;text-align:center;">
+                                        <p>Asignaturas de Componente de Formación General</p>
+                                    </td>
+                                    <td>
+                                        <p>1</p>
+                                    </td>
+                                    <td>
+                                        <p>SP-601</p>
+                                    </td>
+                                    <td>
+                                        <p>Sistemas de Producción Animal</p>
+                                    </td>
+                                    <td>
+                                        <p>23.33</p>
+                                    </td>
+                                    <td>
+                                        <p>76.67</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                   
+                                    <td>
+                                        <p>2</p>
+                                    </td>
+                                    <td>
+                                        <p>MI-602</p>
+                                    </td>
+                                    <td>
+                                        <p>Manejo Integral de la Sanidad Animal</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    
+                                    <td>
+                                        <p>3</p>
+                                    </td>
+                                    <td>
+                                        <p>AP-603</p>
+                                    </td>
+                                    <td>
+                                        <p>Administración Pecuaria</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan ="4">
+                                        <p><strong>Subtotal</strong></p>
+                                    </td>
+                                    <td class="uk-text-truncate">
+                                        <p>22.5</p>
+                                    </td>
+                                    <td>
+                                        <p>77.5</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="9" style="vertical-align : middle;text-align:center;">
+                                        <p>Asignaturas de Componente de Formación Profesional</p>
+                                    </td>
+                                    <td>
+                                        <p>4</p>
+                                    </td>
+                                    <td>
+                                        <p>NA-605</p>
+                                    </td>
+                                    <td>
+                                        <p>Nutrición Animal en el Trópico</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>5</p>
+                                    </td>
+                                    <td>
+                                        <p>GC-606</p>
+                                    </td>
+                                    <td>
+                                        <p>Gestión Contable de Empresas Pecuarias</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>6</p>
+                                    </td>
+                                    <td>
+                                        <p>EA-608</p>
+                                    </td>
+                                    <td>
+                                        <p>Estrategias de Alimentación Animal</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>7</p>
+                                    </td>
+                                    <td>
+                                        <p>TC-609</p>
+                                    </td>
+                                    <td>
+                                        <p>Transformación y Comercialización de Productos Pecuarios</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                <tr>
+                                    <td>
+                                        <p>8</p>
+                                    </td>
+                                    <td>
+                                        <p>RM-711</p>
+                                    </td>
+                                    <td>
+                                        <p>Reproducción y Mejoramiento Animal</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>9</p>
+                                    </td>
+                                    <td>
+                                        <p>FE-712</p>
+                                    </td>
+                                    <td>
+                                        <p>Formulación y Evaluación de Proyectos Pecuarios </p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>10</p>
+                                    </td>
+                                    <td>
+                                        <p></p>
+                                    </td>
+                                    <td>
+                                        <p>Electiva I</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>11</p>
+                                    </td>
+                                    <td>
+                                        <p></p>
+                                    </td>
+                                    <td>
+                                        <p>Electiva II</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>12</p>
+                                    </td>
+                                    <td>
+                                        <p></p>
+                                    </td>
+                                    <td>
+                                        <p>Electiva III</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="4" style="vertical-align : middle;text-align:center;">
+                                        <p>Asignaturas de Componente de Investigación Aplicada</p>
+                                    </td>
+                                    <td>
+                                        <p>13</p>
+                                    </td>
+                                    <td>
+                                        <p>EA-604</p>
+                                    </td>
+                                    <td>
+                                        <p>Estadística Aplicada de la Producción Sostenible</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>14</p>
+                                    </td>
+                                    <td>
+                                        <p>IP-607</p>
+                                    </td>
+                                    <td>
+                                        <p>Investigación para la Producción Pecuaria</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>15</p>
+                                    </td>
+                                    <td>
+                                        <p>SI-710</p>
+                                    </td>
+                                    <td>
+                                        <p>Seminario de Investigación</p>
+                                    </td>
+                                    <td>
+                                        <p>22.22</p>
+                                    </td>
+                                    <td>
+                                        <p>77.78</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>16</p>
+                                    </td>
+                                    <td>
+                                        <p>PI-716</p>
+                                    </td>
+                                    <td>
+                                        <p>Proyecto de Investigación</p>
+                                    </td>
+                                    <td>
+                                        <p>21.67</p>
+                                    </td>
+                                    <td>
+                                        <p>78.33</p>
+                                    </td>
+                                </tr>
+
+                                <!-- <tr>
                                     <td>
                                         <p>SP-601</p>
                                     </td>
@@ -447,7 +811,7 @@
                                     <td>
                                         <p>44</p>
                                     </td>
-                                </tr>
+                                </tr> -->
                             </tbody>
                         </table>
                     </div>

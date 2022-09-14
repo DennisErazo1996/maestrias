@@ -148,7 +148,7 @@ table p{
 }
 
 table tbody tr td:nth-child(2) p{
-    text-align: left;
+    text-align: center;
 }
 
 .menu-link{
