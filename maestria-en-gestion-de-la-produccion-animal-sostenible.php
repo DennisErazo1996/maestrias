@@ -68,7 +68,7 @@
                     <div class="uk-child-width-1-1" data-uk-grid="" data-uk-lightbox="animation: fade">
                         <div>
                             <a class="uk-inline" href="images/flujograma-mgpas.jpg">
-                                <img data-src="images/flujograma-mgpas.jpg" src="images/flujograma-mgpas.jpg" alt="">
+                                <img data-src="images/flujograma-mgpas.jpg" src="images/flujograma-mgpas.png" alt="">
                             </a>
                         </div>
                     </div>
