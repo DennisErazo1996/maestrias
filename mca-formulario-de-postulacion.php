@@ -4,7 +4,7 @@
  * El 24 de septiembre ya no debe estar disponible este formulario
  */
 
-// header('Location: maestria-en-ciencias-agroalimentarias');
+header('Location: maestria-en-ciencias-agroalimentarias');
 ?>
 <?php include_once('templates/head.php'); ?>
 <title>Formulario de postulación MCA | UNAG</title>

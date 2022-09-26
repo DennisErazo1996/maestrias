@@ -13,7 +13,7 @@
         
         <!-- DESCOMENTAR ESTA SECCIÓN DEL 8 AL 23 DE SEPTIEMBRE -->
 
-        <div class="uk-visible@s uk-margin-medium-top">
+        <!-- <div class="uk-visible@s uk-margin-medium-top">
             <p class="uk-text-center">
                 <a href="mca-instructivo-de-convocatoria" target="new" class="pulseBtn">Instructivo de la convocatoria</a>
             </p>
@@ -25,12 +25,12 @@
                     <a href="mca-instructivo-de-convocatoria" target="new" class="pulseBtn">Instructivo de la convocatoria</a>
                 </p>
             </div>
-            <!-- <div>
+            <div>
                 <p class="uk-text-center uk-margin-top">
                     <a href="mca-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de postulación</a>
                 </p>
-            </div> -->
-        </div>
+            </div>
+        </div> -->
         <!-- HASTA AQUI -->
         
         <p class="uk-text-center uk-margin-large-top">
