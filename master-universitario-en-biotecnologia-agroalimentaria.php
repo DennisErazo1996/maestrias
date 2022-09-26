@@ -21,6 +21,7 @@
                 <li><a href="#">Flujograma</a></li>
                 <li><a href="#">Metodología</a></li>
                 <li><a href="#">Enlaces de interés</a></li>
+                <li><a href="#">Aspirantes Seleccionados</a></li>
             </ul>
             <ul class="uk-switcher uk-margin">
                 <li>
@@ -114,6 +115,15 @@
                                 <h4 class="uk-text-left uk-text-bold">Formas de pago</h4>
                                 <a href="https://www.ucavila.es/images/files/GuiaEstudiante/22-23/master/9.MU.FORMAS.PAGO.22.23.pdf" class="uk-button uk-button-primary" target="new">Visitar</a>
                             </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="uk-child-width-1-1 uk-text-center" data-uk-grid data-uk-lightbox="animation: fade">
+                        <div>
+                            <a class="uk-inline" href="images/listado-oficial-aspirantes-mba.png">
+                                <img data-src="images/listado-oficial-aspirantes-mba.png" src="images/listado-oficial-aspirantes-mba.png" alt="">
+                            </a>
                         </div>
                     </div>
                 </li>
