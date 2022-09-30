@@ -45,7 +45,7 @@
                 <li><a href="#">Porcentajes</a></li>
                 <!-- <li class="uk-active"><a href="#">Sílabo</a></li> -->
                 <li><a href="#">Galería</a></li>
-                <li><a href="#">Aspirantes Seleccionados</a></li>
+                <li><a href="#">Aspirantes Preseleccionados</a></li>
             </ul>
 
             <ul class="uk-switcher uk-margin">
