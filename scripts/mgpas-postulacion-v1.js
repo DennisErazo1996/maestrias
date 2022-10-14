@@ -116,7 +116,7 @@ function formValidation(){
 
     if(!checkName(apellido_paterno)){
         showValidationMsj('#apellido_paterno', validacion, 'Escriba su apellido paterno');
-    } else if(!checkName(apellido_materno)){
+    } /*else if(!checkName(apellido_materno)){
         showValidationMsj('#apellido_materno', validacion, 'Escriba su apellido materno');
     } else if(!checkName(nombres)){
         showValidationMsj('#nombres', validacion, 'Escriba su nombre');
@@ -158,7 +158,7 @@ function formValidation(){
         showValidationMsj('input[name=fuente]', validacion, 'Seleccione la fuente de financiamiento');
     } else if(!checkString(p1)){
         showValidationMsj('#p1', validacion, 'Escriba por qué ha decidido estudiar la Maestría en Ciencias Agroalimentarias');
-    } else {
+    }*/ else {
         let data = new FormData();
         data.append('apellido_paterno', apellido_paterno);
         data.append('apellido_materno', apellido_materno);
