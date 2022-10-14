@@ -10,7 +10,7 @@
 <title>Formulario de postulación MCA | UNAG</title>
 <?php include_once('templates/header.php'); ?>
 <main>
-    <div class="bg-bread" style="background-image: url('images/banner-form-mgpas.jpg');">
+    <div class="bg-bread" style="background-image: url('images/banner-form-mgpas.JPG');">
         <div class="bread-glass"></div>
     </div>
     <div class="uk-container uk-container-small">
