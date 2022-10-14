@@ -26,6 +26,11 @@ $fecha = $fechaHora[0];
 $hora = $fechaHora[1];
 
 // Default
+// $pdfOK = false;
+// $mime_permitida = 'application/pdf';
+// $maxPesoFile = 5500000;
+// $ruta = '../documents/mca/';
+// $ext = '.pdf';
 $response['estatus'] = false;
 $response['mensaje'] = 'Proceso denegado';
 
@@ -50,13 +55,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         isset($_POST['carrera1']) && 
         isset($_POST['anio_inicio1']) && 
         isset($_POST['anio_termino1']) && 
-        isset($_POST['titulo1']) && 
+        isset($_POST['titulo1']) &&  
         isset($_POST['universidad2']) && 
         isset($_POST['lugar2']) && 
         isset($_POST['carrera2']) && 
         isset($_POST['anio_inicio2']) && 
         isset($_POST['anio_termino2']) && 
-        isset($_POST['titulo2']) &&
+        isset($_POST['titulo2']) && 
         isset($_POST['institucion1']) && 
         isset($_POST['localidad1']) && 
         isset($_POST['cargo1']) && 
@@ -144,11 +149,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         $nivel_otro_idioma = test_input($_POST['nivel_otro_idioma']);
         $fuente = test_input($_POST['fuente']);
         $p1 = test_input($_POST['p1']);
-    
 
         $response['estatus'] = true;
     }
 }
+
+// Validar PDF
 
 
 // Proceder
@@ -200,7 +206,7 @@ if($response['estatus']){
         `pais_trabajo`,
         `ciudad_trabajo`,
         `telefono_trabajo`,
-        `correo_trabajo`
+        `correo_trabajo`,
         `espaniol`,
         `ingles`,
         `frances`,
@@ -335,6 +341,7 @@ if($response['estatus']){
     // var_dump($result);
 
     $response['mensaje'] = 'OK';
+    //move_uploaded_file($ruta_provisional, $ruta.$nombrePDF);
 }
 
 // Respuesta
