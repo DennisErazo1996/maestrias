@@ -73,6 +73,7 @@
                 <li><a href="#">Porcentajes</a></li>
                 <!-- <li class="uk-active"><a href="#">Sílabo</a></li> -->
                 <li><a href="#">Galería</a></li>
+                <li><a href="#">Convocatoria</a></li>
             </ul>
 
             <ul class="uk-switcher uk-margin">
@@ -967,6 +968,15 @@
                         <div>
                             <a class="uk-inline" href="images/gpas-f30.jpg">
                                 <img data-src="images/gpas-t30.jpg" src="images/gpas-t30.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                 <li>
+                    <div class="uk-child-width-1-1 uk-text-center" data-uk-grid data-uk-lightbox="animation: fade">
+                        <div>
+                            <a class="uk-inline" href="images/convocatoria-2023-mgpas.jpg">
+                                <img data-src="images/convocatoria-2023-mgpas.jpg" src="images/convocatoria-2023-mgpas.jpg" alt="">
                             </a>
                         </div>
                     </div>
