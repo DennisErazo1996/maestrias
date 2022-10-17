@@ -10,6 +10,23 @@
         <p class="uk-text-center uk-margin-medium-top uk-margin-medium-bottom"><a download
                 href="documents/Maestría-en-Gestión-de-la-Producción-Animal-Sostenible.pdf"
                 class="uk-button uk-button-default">Descargar bifolio</a></p>
+
+                 <div class="uk-visible@s uk-margin-medium-top">
+                     <p class="uk-text-center">
+                         <a href="mgpas-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de
+                                 postulación</a>
+                     </p>
+                 </div>
+
+                 <div class="uk-hidden@s uk-grid-large uk-child-width-1-1 uk-child-width-1-2@s">
+                     <div>
+                         <p class="uk-text-center uk-margin-top">
+                             <a href="mgpas-formulario-de-postulacion" target="new" class="pulseBtn">Formulario de
+                                 postulación</a>
+                         </p>
+                     </div>
+                 </div>
+                 <br>
         <p><span class="dropcap">L</span>a Universidad Nacional de Agricultura de Honduras, es una institución de
             Educación Superior, la cual a partir del año 2002 sustituyó a la Escuela Nacional de Agricultura. Los
             principios básicos bajo las cuales se rige la Institución son la Docencia, Investigación, Vinculación y
