@@ -1,6 +1,6 @@
 <?php
 
-//header('Location: maestria-en-gestion-de-la-produccion-animal-sostenible');
+header('Location: maestria-en-gestion-de-la-produccion-animal-sostenible');
 ?>
 <?php include_once('templates/head.php'); ?>
 <title>Formulario de postulación MCA | UNAG</title>
