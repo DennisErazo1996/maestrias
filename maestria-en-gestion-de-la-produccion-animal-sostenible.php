@@ -91,6 +91,7 @@
                 <!-- <li class="uk-active"><a href="#">Sílabo</a></li> -->
                 <li><a href="#">Galería</a></li>
                 <li><a href="#">Convocatoria</a></li>
+                <li><a href="#">Requisitos</a></li>
             </ul>
 
             <ul class="uk-switcher uk-margin">
@@ -994,6 +995,15 @@
                         <div>
                             <a class="uk-inline" href="images/convocatoria-2023-mgpas.jpg">
                                 <img data-src="images/convocatoria-2023-mgpas.jpg" src="images/convocatoria-2023-mgpas.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                 <li>
+                    <div class="uk-child-width-1-1 uk-text-center" data-uk-grid data-uk-lightbox="animation: fade">
+                        <div>
+                            <a class="uk-inline" href="images/post-requisitos-mgpas.jpg">
+                                <img data-src="images/post-requisitos-mgpas.jpg" src="images/post-requisitos-mgpas.jpg" alt="">
                             </a>
                         </div>
                     </div>
