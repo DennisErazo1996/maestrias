@@ -54,7 +54,7 @@
                 <li><a href="#">Porcentajes</a></li>
                 <!-- <li class="uk-active"><a href="#">Sílabo</a></li> -->
                 <li><a href="#">Galería</a></li>
-                <li><a href="#">Aspirantes Preseleccionados</a></li>
+                <li><a href="#">Aspirantes Seleccionados</a></li>
             </ul>
 
             <ul class="uk-switcher uk-margin">
@@ -1029,10 +1029,11 @@
                 </li>
                 <li>
                     <div class="uk-child-width-1-1 uk-text-center" data-uk-grid data-uk-lightbox="animation: fade">
-                        <div>
-                            <a class="uk-inline" href="images/listado-oficial-aspirantes-mca.png">
-                                <img data-src="images/listado-oficial-aspirantes-mca.png"
-                                    src="images/listado-oficial-aspirantes-mca.png" alt="">
+                    <div>
+                            <a class="uk-inline" href="images/listado-aspirantes-seleccionados-mca.png"
+                                data-caption="Listado Oficial Aspirantes Seleccionados MCA">
+                                <img data-src="images/listado-aspirantes-seleccionados-mca.png" src="images/listado-aspirantes-seleccionados-mca.png" width="600"
+                                    height="500" alt="">
                             </a>
                         </div>
                     </div>
