@@ -212,8 +212,8 @@ function formValidation(){
         showValidationMsj('#titulo1', validacion, 'Escriba el título obtenido en su carrera universitaria');
     } else if(!checkString(tesis1)){
         showValidationMsj('#tesis1', validacion, 'Escriba la tesis o trabajo de graduación');
-    } else if(espaniol === 'No' && ingles === 'No' && frances === 'No' && aleman === 'No' && portugues === 'No' && otro_idioma === 'No'){
-        showValidationMsj('#espaniol', validacion, 'Seleccione al menos un idioma');
+    } else if(lecturaEspaniol === '' && escrituraEspaniol === '' && conversacionEspaniol === ''){
+        showValidationMsj('#lecturaEspaniol', validacion, 'Seleccione al menos un idioma');
     } else if(fuente === undefined){
         showValidationMsj('input[name=fuente]', validacion, 'Seleccione la fuente de financiamiento');
     } else if(!checkString(p1)){
@@ -289,13 +289,22 @@ function formValidation(){
         data.append('nombreR3', nombreR3);
         data.append('cargoR3', cargoR3);
         data.append('correoR3', correoR3);
-        data.append('espaniol', espaniol);
+        /*data.append('espaniol', espaniol);
         data.append('ingles', ingles);
         data.append('frances', frances);
         data.append('aleman', aleman);
         data.append('portugues', portugues);
         data.append('otro_idioma', otro_idioma);
-        data.append('nivel_otro_idioma', nivel_otro_idioma);
+        data.append('nivel_otro_idioma', nivel_otro_idioma);*/
+        data.append('lecturaEspaniol', lecturaEspaniol);
+        data.append('lecturaIngles', lecturaIngles);
+        data.append('lecturaOtros', lecturaOtros);
+        data.append('escrituraEspaniol', escrituraEspaniol);
+        data.append('escrituraIngles', escrituraIngles);
+        data.append('escrituraOtros', escrituraOtros);
+        data.append('conversacionEspaniol', conversacionEspaniol);
+        data.append('conversacionIngles', conversacionIngles);
+        data.append('conversacionOtros', conversacionOtros);
         data.append('fuente', fuente);
         data.append('p1', p1);
         data.append('p2', p2);

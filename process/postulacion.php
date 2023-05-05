@@ -29,7 +29,7 @@ $hora = $fechaHora[1];
 $pdfOK = false;
 $mime_permitida = 'application/pdf';
 $maxPesoFile = 5500000;
-$ruta = '../documents/mca/';
+$ruta = '../documents/aspirantes/';
 $ext = '.pdf';
 $response['estatus'] = false;
 $response['mensaje'] = 'Proceso denegado';
@@ -50,6 +50,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         isset($_POST['telefono']) && 
         isset($_POST['celular']) && 
         isset($_POST['correo']) && 
+        isset($_POST['salario']) && 
+        isset($_POST['dedicaion']) && 
         isset($_POST['universidad1']) && 
         isset($_POST['lugar1']) && 
         isset($_POST['carrera1']) && 
@@ -94,18 +96,30 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         isset($_POST['nombreR3']) && 
         isset($_POST['cargoR3']) && 
         isset($_POST['correoR3']) && 
-        isset($_POST['espaniol']) && 
+        /*isset($_POST['espaniol']) && 
         isset($_POST['ingles']) && 
         isset($_POST['frances']) && 
         isset($_POST['aleman']) && 
         isset($_POST['portugues']) && 
         isset($_POST['otro_idioma']) && 
-        isset($_POST['nivel_otro_idioma']) && 
+        isset($_POST['nivel_otro_idioma']) && */
+
+        isset($_POST['lecturaEspaniol']) && 
+        isset($_POST['lecturaIngles']) && 
+        isset($_POST['lecturaOtros']) && 
+        isset($_POST['escrituraEspaniol']) && 
+        isset($_POST['escrituraIngles']) && 
+        isset($_POST['escrituraOtros']) && 
+        isset($_POST['conversacionEspaniol']) && 
+        isset($_POST['conversacionIngles']) && 
+        isset($_POST['conversacionOtros']) && 
         isset($_POST['fuente']) && 
         isset($_POST['p1']) && 
         isset($_POST['p2']) && 
         isset($_POST['p3']) && 
         isset($_POST['p4']) && 
+        isset($_POST['p5']) && 
+        isset($_POST['maestria']) && 
         isset($_FILES['pdf'])
     ){
 
@@ -122,6 +136,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         $telefono = test_input($_POST['telefono']);
         $celular = test_input($_POST['celular']);
         $correo = test_input($_POST['correo']);
+        $salario = test_input($_POST['salario']);
+        $dedicacion = test_input($_POST['dedicacion']);
         $universidad1 = test_input($_POST['universidad1']);
         $lugar1 = test_input($_POST['lugar1']);
         $carrera1 = test_input($_POST['carrera1']);
@@ -166,18 +182,29 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         $nombreR3 = test_input($_POST['nombreR3']);
         $cargoR3 = test_input($_POST['cargoR3']);
         $correoR3 = test_input($_POST['correoR3']);
-        $espaniol = test_input($_POST['espaniol']);
+        /*$espaniol = test_input($_POST['espaniol']);
         $ingles = test_input($_POST['ingles']);
         $frances = test_input($_POST['frances']);
         $aleman = test_input($_POST['aleman']);
         $portugues = test_input($_POST['portugues']);
         $otro_idioma = test_input($_POST['otro_idioma']);
-        $nivel_otro_idioma = test_input($_POST['nivel_otro_idioma']);
+        $nivel_otro_idioma = test_input($_POST['nivel_otro_idioma']);*/
+        $lecturaEspaniol = test_input($_POST['lecturaEspaniol']);
+        $lecturaIngles = test_input($_POST['lecturaIngles']);
+        $lecturaOtros = test_input($_POST['lecturaOtros']);
+        $escrituraEspaniol = test_input($_POST['escrituraEspaniol']);
+        $escrituraIngles = test_input($_POST['escrituraIngles']);
+        $escrituraOtros = test_input($_POST['escrituraOtros']);
+        $conversacionEspaniol = test_input($_POST['conversacionEspaniol']);
+        $conversacionIngles = test_input($_POST['conversacionIngles']);
+        $conversacionOtros = test_input($_POST['conversacionOtros']);
         $fuente = test_input($_POST['fuente']);
         $p1 = test_input($_POST['p1']);
         $p2 = test_input($_POST['p2']);
         $p3 = test_input($_POST['p3']);
         $p4 = test_input($_POST['p4']);
+        $p5 = test_input($_POST['p5']);
+        $maestria = test_input($_POST['maestria']);
         $pdfFile = $_FILES['pdf'];
 
         $response['estatus'] = true;
@@ -224,6 +251,8 @@ if($response['estatus']){
         `telefono`,
         `celular`,
         `correo`,
+        `salario`,
+        `dedicacion`,
         `universidad1`,
         `lugar1`,
         `carrera1`,
@@ -269,18 +298,24 @@ if($response['estatus']){
         `cargor3`,
         `correor3`,
         `espaniol`,
-        `ingles`,
-        `frances`,
-        `aleman`,
-        `portugues`,
-        `otro_idioma`,
+        `lectura_espaniol`,
+        `escritura_espaniol`,
+        `conversacion_espaniol`,
+        `lectura_ingles`,
+        `escritura_ingles`,
+        `conversacion_ingles`,
+        `lectura_otros`,
+        `escritura_otros`,
+        `conversacion_otros`,
         `nivel_otro_idioma`,
         `fuente`,
         `p1`,
         `p2`,
         `p3`,
         `p4`,
+        `p5`,
         `pdf`,
+        `maestria`,
         `fecha`,
         `hora`
     )
@@ -298,6 +333,8 @@ if($response['estatus']){
         :telefono,
         :celular,
         :correo,
+        :salario,
+        :dedicacion,
         :universidad1,
         :lugar1,
         :carrera1,
@@ -342,18 +379,21 @@ if($response['estatus']){
         :nombreR3,
         :cargoR3,
         :correoR3,
-        :espaniol,
-        :ingles,
-        :frances,
-        :aleman,
-        :portugues,
-        :otro_idioma,
-        :nivel_otro_idioma,
+        :lecturaEspaniol,
+        :lecturaIngles,
+        :lecturaOtros,
+        :escrituraEspaniol,
+        :escrituraIngles,
+        :escrituraOtros,
+        :conversacionEspaniol,
+        :conversacionIngles,
+        :conversacionOtros,
         :fuente,
         :p1,
         :p2,
         :p3,
         :p4,
+        :maestria,
         :pdf,
         :fecha,
         :hora
@@ -372,6 +412,8 @@ if($response['estatus']){
     $statement->bindParam(':telefono',$telefono);
     $statement->bindParam(':celular',$celular);
     $statement->bindParam(':correo',$correo);
+    $statement->bindParam(':salario',$salario);
+    $statement->bindParam(':dedicacion',$dedicacion);
     $statement->bindParam(':universidad1',$universidad1);
     $statement->bindParam(':lugar1',$lugar1);
     $statement->bindParam(':carrera1',$carrera1);
@@ -417,17 +459,22 @@ if($response['estatus']){
     $statement->bindParam(':cargoR3',$cargoR3);
     $statement->bindParam(':correoR3',$correoR3);
     $statement->bindParam(':espaniol',$espaniol);
-    $statement->bindParam(':ingles',$ingles);
-    $statement->bindParam(':frances',$frances);
-    $statement->bindParam(':aleman',$aleman);
-    $statement->bindParam(':portugues',$portugues);
-    $statement->bindParam(':otro_idioma',$otro_idioma);
-    $statement->bindParam(':nivel_otro_idioma',$nivel_otro_idioma);
+    $statement->bindParam(':lecturaEspaniol', $lecturaEspaniol);
+    $statement->bindParam(':lecturaIngles', $lecturaIngles);
+    $statement->bindParam(':lecturaOtros', $lecturaOtros);
+    $statement->bindParam(':escrituraEspaniol', $escrituraEspaniol);
+    $statement->bindParam(':escrituraIngles', $escrituraIngles);
+    $statement->bindParam(':escrituraOtros', $escrituraOtros);
+    $statement->bindParam(':conversacionEspaniol', $conversacionEspaniol);
+    $statement->bindParam(':conversacionIngles', $conversacionIngles);
+    $statement->bindParam(':conversacionOtros', $conversacionOtros);
     $statement->bindParam(':fuente',$fuente);
     $statement->bindParam(':p1',$p1);
     $statement->bindParam(':p2',$p2);
     $statement->bindParam(':p3',$p3);
     $statement->bindParam(':p4',$p4);
+    $statement->bindParam(':p5',$p5);
+    $statement->bindParam(':maestria',$maestria);
     $statement->bindParam(':pdf',$nombrePDF);
     $statement->bindParam(':fecha',$fecha);
     $statement->bindParam(':hora',$hora);
