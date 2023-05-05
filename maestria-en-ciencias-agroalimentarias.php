@@ -22,11 +22,11 @@
 
         <!-- DESCOMENTAR ESTA SECCIÓN DEL 8 AL 23 DE SEPTIEMBRE -->
 
-        <div class="uk-visible@s uk-margin-medium-top">
+        <!-- <div class="uk-visible@s uk-margin-medium-top">
             <p class="uk-text-center">
                 <a href="formulario-de-postulacion?maestria=mca" target="new" class="pulseBtn">Formulario de postulación</a>
             </p>
-        </div>
+        </div> -->
 
         <!-- <div class="uk-hidden@s uk-grid-large uk-child-width-1-1 uk-child-width-1-2@s">
             <div>
