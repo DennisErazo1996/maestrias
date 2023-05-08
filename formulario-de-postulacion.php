@@ -138,7 +138,7 @@
                 </li>
                 <li>
                     <a class="uk-accordion-title uk-padding-small fondo-verde-claro texto-verde" href="#">ANTECEDENTES
-                        ACADÉMICOS</a>
+                        ACADÉMICOS DE LICENCIATURA</a>
                     <div class="uk-accordion-content uk-padding fondo-verde-claro">
                         <div class="uk-grid-small" data-uk-grid>
                             <div class="uk-width-1-1 uk-width-1-2@s">
@@ -539,12 +539,12 @@
                         <p class="uk-margin-remove-top">Por favor agregue un sólo documento en formato PDF que contenga
                             lo siguiente:</p>
                         <ul class="uk-list uk-list-square">
-                            <li>Solicitud escrita de admisión al programa</li>
-                            <li>Copia de título</li>
-                            <li>Certificado de calificaciones</li>
-                            <li>Ranking de egreso</li>
+                            <li>Carta de intenciones.</li>
+                            <li>2 cartas de referencias.</li>
+                            <li>Currículum vitae.</li>
+                            <li>Título y/o grado académico</li>
+                            <li>Certificado de título, grados y ranking de promoción</li>
                             <li>Copia del documento de identidad</li>
-                            <li>Hoja de vida</li>
                         </ul>
                         <p class="uk-margin-remove-top">Peso máximo del documento: 5 MB</p>
                         <div class="uk-margin">
