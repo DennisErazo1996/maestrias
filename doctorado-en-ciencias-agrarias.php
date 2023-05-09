@@ -49,6 +49,11 @@
             <ul class="uk-switcher uk-margin">
                 <li>
                     <ul class="uk-list">
+                        <li><strong>Fecha de inicio:</strong>
+                            <ul>
+                                <li>Agosto 2023</li>
+                            </ul>
+                        </li>
                         <li><strong>Título que otorga:</strong>
                             <ul>
                                 <li>Doctor en Ciencias Agraria</li>
