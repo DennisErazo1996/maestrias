@@ -79,6 +79,12 @@
                                 <li>Ocho semestres</li>
                             </ul>
                         </li>
+                        <li><strong>Correo electrónico:</strong>
+                            <ul>
+                                <li> <a class="uk-link-reset" href="mailto:investigacionypostgrado@unag.edu.hn"><span uk-icon="icon: mail"></span> investigacionypostgrado@unag.edu.hn</a> 
+                                </li>
+                            </ul>
+                        </li>
                     </ul>
                 </li>
                 <li>

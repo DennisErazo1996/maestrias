@@ -28,7 +28,7 @@
                         <a class="uk-link-reset" href="mailto:coordinacionmrnps@unag.edu.hn"><span class="uk-margin-small-right uk-icon" data-uk-icon="mail"></span> Maestría en Recursos Naturales y Producción Sostenible</a><br>
                         <a class="uk-link-reset" href="mailto:coordinacionmagro4_0@unag.edu.hn"><span class="uk-margin-small-right uk-icon" data-uk-icon="mail"></span> Máster en Agro 4.0</a><br>
                         <a class="uk-link-reset" href="mailto:coordinacionmabioagro@unag.edu.hn"><span class="uk-margin-small-right uk-icon" data-uk-icon="mail"></span> Máster en Biotecnología Agroalimentaria</a><br>
-                        <a class="uk-link-reset" href="mailto:doctoradociagro@unag.edu.hn"><span class="uk-margin-small-right uk-icon" data-uk-icon="mail"></span> Doctorado en Ciencias Agrarias</a>
+                        <a class="uk-link-reset" href="mailto:investigacionypostgrado@unag.edu.hn"><span class="uk-margin-small-right uk-icon" data-uk-icon="mail"></span> Doctorado en Ciencias Agrarias</a>
                     </div>
                 </div>
             </div>
