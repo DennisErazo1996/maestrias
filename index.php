@@ -24,7 +24,7 @@
                     <img src="images/mca-slide1.jpg" alt="" data-uk-cover>
                     <div class="uk-position-bottom uk-panel uk-position-z-index">
                         <div class="slideShow-item-text">
-                            <h4 class="uk-margin-remove-bottom">Maestría en</h4>
+                            <h4 class="uk-margin-remove-bottom">Posgrado en</h4>
                             <h2 class="uk-margin-remove-top uk-margin-medium-bottom">Ciencias Agroalimentarias</h2>
                             <a href="maestria-en-ciencias-agroalimentarias" class="uk-button uk-button-primary">Más
                                 información</a>
@@ -38,7 +38,7 @@
                     <img src="images/mgpas-slide1.jpg" alt="" data-uk-cover>
                     <div class="uk-position-bottom uk-panel uk-position-z-index">
                         <div class="slideShow-item-text">
-                            <h4 class="uk-margin-remove-bottom">Maestría en</h4>
+                            <h4 class="uk-margin-remove-bottom">Posgrado en</h4>
                             <h2 class="uk-margin-remove-top uk-margin-medium-bottom">Gestión de la Producción Animal
                                 Sostenible</h2>
                             <a href="maestria-en-gestion-de-la-produccion-animal-sostenible"
@@ -53,7 +53,7 @@
                     <img src="images/mrrnn-slide1.jpg" alt="" data-uk-cover>
                     <div class="uk-position-bottom uk-panel uk-position-z-index">
                         <div class="slideShow-item-text">
-                            <h4 class="uk-margin-remove-bottom">Maestría en</h4>
+                            <h4 class="uk-margin-remove-bottom">Posgrado en</h4>
                             <h2 class="uk-margin-remove-top uk-margin-medium-bottom">Recursos Naturales y Producción
                                 Sostenible</h2>
                             <a href="maestria-en-recursos-naturales-y-produccion-sostenible"
@@ -68,7 +68,7 @@
                     <img src="images/mba-slide1.jpg" alt="" data-uk-cover>
                     <div class="uk-position-bottom uk-panel uk-position-z-index">
                         <div class="slideShow-item-text">
-                            <h4 class="uk-margin-remove-bottom">Máster Universitario en</h4>
+                            <h4 class="uk-margin-remove-bottom">Posgrado Universitario en</h4>
                             <h2 class="uk-margin-remove-top uk-margin-medium-bottom">Biotecnología Agroalimentaria</h2>
                             <a href="master-universitario-en-biotecnologia-agroalimentaria"
                                 class="uk-button uk-button-primary">Más información</a>
