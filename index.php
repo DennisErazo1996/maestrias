@@ -56,6 +56,19 @@
                     <div class="dark-glass"></div>
                 </div>
             </li>
+            <li class="uk-width-1-1 uk-width-3-4@s">
+                <div class="uk-cover-container">
+                    <img src="images/slide-doctorado.jpeg" alt="" data-uk-cover>
+                    <div class="uk-position-bottom uk-panel uk-position-z-index">
+                        <div class="slideShow-item-text">
+                            <h4 class="uk-margin-remove-bottom">Doctorado en</h4>
+                            <h2 class="uk-margin-remove-top uk-margin-medium-bottom">Ciencias Agrarias</h2>
+                            <a href="doctorado-en-ciencias-agrarias" class="uk-button uk-button-primary">Más información</a>
+                        </div>
+                    </div>
+                    <div class="dark-glass"></div>
+                </div>
+            </li>
         </ul>
 
         <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
